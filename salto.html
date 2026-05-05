@@ -13,6 +13,7 @@
 <meta name="twitter:description" content="Noticias del deporte ecuestre">
 <link rel="stylesheet" href="css/estilo.css">
 <script defer src="js/cmp.js"></script>
+<script defer src="js/ads.js"></script>
 </head>
 <body>
 <!-- Banner CMP (consentimiento de cookies) — oculto por defecto, lo muestra cmp.js si no hay decisión. -->
@@ -100,9 +101,23 @@
   </div>
 </header>
 <main>
+<div class="layout-grid" data-layout="con-sidebar">
+  <div class="contenido-principal">
 <section class="seccion">
   <h1>Salto</h1>
   <ul class="lista-noticias">
+    <li class="tarjeta">
+      <a href="noticias/20260505-la-federacion-vasca-acoge-un-curso-de-formacion-de-jueces-de-salto-de-obstaculos.html">
+        <div class="tarjeta-imagen">
+          <img src="https://hipicaaldia.com/imagenes_archivo/eventos/la-federacion-vasca-acoge-un-curso-de-formacion-de-jueces-de/la-federacion-vasca-acoge-un-curso-de-formacion-de-jueces-de-salto-de-obstaculos.jpg" alt="" loading="lazy">
+        </div>
+        <div class="tarjeta-texto">
+          <h2>La Federación Vasca acoge un curso de formación de jueces de salto de obstáculos</h2>
+          <p class="entradilla">La Federación Vasca de Hípica ha celebrado un Curso de Jueces de Salto de Obstáculos Nivel 1, organizado en colaboración con el Comité Técnico Nacional de Jueces de la RFHE.</p>
+          <p class="meta">2026/05/05</p>
+        </div>
+      </a>
+    </li>
     <li class="tarjeta">
       <a href="noticias/20260505-un-jinete-de-80-anos-persigue-su-clasificacion-para-el-hoys-con-una-yegua-de-20.html">
         <div class="tarjeta-imagen">
@@ -496,13 +511,16 @@
         </div>
         <div class="tarjeta-texto">
           <h2>El CSI3* de Maeza reúne en Sariego a la élite nacional del salto de obstáculos</h2>
-          <p class="entradilla"></p>
+          <p class="entradilla">La finca asturiana acoge este fin de semana su tradicional concurso internacional con más de 45.000 euros en premios y participación de jinetes de cuatro países europeos.</p>
           <p class="meta">2026/04/22</p>
         </div>
       </a>
     </li>
   </ul>
 </section>
+  </div>
+  <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
+</div>
 </main>
 <footer>
   <p>&copy; 2026 Hípica al Día. Medio digital independiente.</p>
