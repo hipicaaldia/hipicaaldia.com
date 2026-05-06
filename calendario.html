@@ -12,8 +12,78 @@
 <meta name="twitter:title" content="Calendario 2026 — Hípica al Día">
 <meta name="twitter:description" content="concursos ecuestres (FEI y nacionales) de salto, doma, completo, enganches, raid, volteo, reining y paraecuestre">
 <link rel="stylesheet" href="css/estilo.css">
+<script defer src="js/cmp.js"></script>
+<script defer src="js/ads.js"></script>
 </head>
 <body>
+<!-- Banner CMP (consentimiento de cookies) — oculto por defecto, lo muestra cmp.js si no hay decisión. -->
+<div id="cmp-banner" class="cmp-banner" role="dialog"
+     aria-labelledby="cmp-banner-titulo"
+     aria-describedby="cmp-banner-desc"
+     hidden>
+  <p id="cmp-banner-titulo" class="cmp-banner__titulo">Aviso de cookies</p>
+  <p id="cmp-banner-desc" class="cmp-banner__texto">
+    Utilizamos cookies estrictamente necesarias para el funcionamiento del sitio web.
+    Con tu permiso, también podríamos usar cookies de terceros para mostrar
+    contenidos embebidos, publicidad y otras funcionalidades. Más información en nuestra
+    <a href="/legal/politica-cookies.html">Política de cookies</a>.
+  </p>
+  <div class="cmp-banner__acciones">
+    <button type="button" data-cmp-action="accept-all">Aceptar todas</button>
+    <button type="button" data-cmp-action="reject-all">Rechazar todas</button>
+    <button type="button" data-cmp-action="configure">Configurar</button>
+  </div>
+</div>
+
+<!-- Modal CMP — selector granular de categorías. -->
+<div id="cmp-modal" class="cmp-modal" role="dialog"
+     aria-labelledby="cmp-modal-titulo"
+     aria-describedby="cmp-modal-desc"
+     aria-modal="true"
+     hidden>
+  <div class="cmp-modal__contenido">
+    <h2 id="cmp-modal-titulo">Configura tus preferencias de cookies</h2>
+    <p id="cmp-modal-desc">
+      Puedes activar o desactivar cada categoría por separado. Tu decisión se recordará durante 12 meses.
+    </p>
+    <ul class="cmp-modal__categorias">
+      <li>
+        <label>
+          <input type="checkbox" name="necesarias" checked disabled>
+          <strong>Estrictamente necesarias</strong> (siempre activas)
+        </label>
+        <p>Imprescindibles para el funcionamiento del sitio. No pueden desactivarse.</p>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="embebidos">
+          <strong>Contenidos embebidos</strong>
+        </label>
+        <p>Vídeos (YouTube, Vimeo), redes sociales (X, Instagram), mapas (Google Maps).</p>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="publicidad">
+          <strong>Publicidad</strong>
+        </label>
+        <p>Anuncios y, en su caso, publicidad personalizada de redes publicitarias.</p>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="antispam">
+          <strong>Antispam</strong>
+        </label>
+        <p>Sistema antispam para formularios y comentarios cuando estén activos.</p>
+      </li>
+    </ul>
+    <div class="cmp-modal__acciones">
+      <button type="button" data-cmp-action="save">Guardar preferencias</button>
+      <button type="button" data-cmp-action="accept-all">Aceptar todas</button>
+      <button type="button" data-cmp-action="reject-all">Rechazar todas</button>
+    </div>
+  </div>
+</div>
+
 <header class="cabecera">
   <div class="marca">
     <a href="index.html" class="logo">Hípica al Día</a>
@@ -31,6 +101,8 @@
   </div>
 </header>
 <main>
+<div class="layout-grid" data-layout="sin-sidebar">
+  <div class="contenido-principal">
 <script src="https://cdn.tailwindcss.com"></script>
 <style>
   .chip { display: inline-flex; align-items: center; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 600; letter-spacing: .02em; }
@@ -102,9 +174,9 @@
   <header class="mb-6">
     <h1 class="text-3xl md:text-4xl font-bold">Calendario 2026</h1>
     <p class="text-sm text-neutral-600">
-      983 eventos ·
+      982 eventos ·
       concursos ecuestres (FEI y nacionales) de salto, doma, completo, enganches, raid, volteo, reining y paraecuestre
- · <span class="text-neutral-500">Actualizado 05/05/2026 08:00</span>    </p>
+ · <span class="text-neutral-500">Actualizado 06/05/2026 08:00</span>    </p>
   </header>
 
   <section id="esta-semana" class="mb-10" aria-labelledby="semana-titulo">
@@ -617,7 +689,7 @@
 
   <div class="tabs-cat" role="tablist">
     <button type="button" class="tab-btn activa" data-tab="internacional" role="tab" aria-selected="true">
-      Internacional <span class="text-neutral-400 font-normal text-sm">(983)</span>
+      Internacional <span class="text-neutral-400 font-normal text-sm">(982)</span>
     </button>
     <button type="button" class="tab-btn" data-tab="nacional" role="tab" aria-selected="false">
       Nacional <span class="text-neutral-400 font-normal text-sm">(0)</span>
@@ -683,21 +755,48 @@
           <span class="text-sm text-neutral-500 font-normal">509 eventos</span>
         </h3>
         <ul class="divide-y divide-neutral-200">
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-05" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">5-9 may</time>
-<span class="font-medium">CSI3* Lexington, KY (Horse Park)</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-05" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">5-10 may</time>
-<span class="font-medium">CSI2* Bevern</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="FR" data-fecha-iso="2026-05-05" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">5-10 may</time>
-<span class="font-medium">CSI2* Nîmes</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="IT" data-fecha-iso="2026-05-06" data-orden-num="5" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
 <span class="font-medium">CSI5* Lido di Camaiore, Versilia</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="BE" data-fecha-iso="2026-05-06" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
 <span class="font-medium">CSIO3* Lier</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="FR" data-fecha-iso="2026-05-06" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI4* Bourg en Bresse</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-05" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">5-9 may</time>
+<span class="font-medium">CSI3* Lexington, KY (Horse Park)</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="FR" data-fecha-iso="2026-05-06" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI3* Le Touquet</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-06" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI3* North Salem, NY</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-05" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">5-10 may</time>
+<span class="font-medium">CSI2* Bevern</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="FR" data-fecha-iso="2026-05-05" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">5-10 may</time>
+<span class="font-medium">CSI2* Nîmes</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="NO" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI2*-NC Drammen</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="NL" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-9 may</time>
+<span class="font-medium">CSI2* Kronenberg</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI2* Riesenbeck</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="HR" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI2*-W Samobor</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="MX" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI2* San Miguel de Allende</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="RO" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CSI2* Snagov</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-12" data-orden-num="5" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">12-17 may</time>
 <span class="font-medium">CSI5* Hamburg</span>          </li>
@@ -932,9 +1031,6 @@
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="12" data-pais="BE" data-fecha-iso="2026-12-26" data-orden-num="5" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">26-30 dic</time>
 <span class="font-medium">CSI5*-W Mechelen</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="FR" data-fecha-iso="2026-05-06" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI4* Bourg en Bresse</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-13" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">13-17 may</time>
 <span class="font-medium">CSI4* North Salem, NY</span>          </li>
@@ -1088,12 +1184,6 @@
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="12" data-pais="DE" data-fecha-iso="2026-12-16" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">16-20 dic</time>
 <span class="font-medium">CSI4* Frankfurt</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="FR" data-fecha-iso="2026-05-06" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI3* Le Touquet</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-06" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI3* North Salem, NY</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-12" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">12-16 may</time>
 <span class="font-medium">CSI3* Lexington, KY (Horse Park)</span>          </li>
@@ -1406,24 +1496,6 @@
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="12" data-pais="AE" data-fecha-iso="2026-12-24" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">24-27 dic</time>
 <span class="font-medium">CSI3*-W Al Ain</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="NO" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI2*-NC Drammen</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="NL" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-9 may</time>
-<span class="font-medium">CSI2* Kronenberg</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI2* Riesenbeck</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="HR" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI2*-W Samobor</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="MX" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI2* San Miguel de Allende</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="RO" data-fecha-iso="2026-05-06" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CSI2* Snagov</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="IT" data-fecha-iso="2026-05-07" data-orden-num="2" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">7-10 may</time>
 <span class="font-medium">CSI2* Busto Arsizio</span>          </li>
@@ -2215,12 +2287,9 @@
       <section class="seccion-disciplina" aria-labelledby="s-int-doma" data-disciplina="DOMA">
         <h3 id="s-int-doma" class="text-lg font-semibold mb-2 pb-1 border-b-2 border-neutral-300 flex items-center gap-2">
           <span class="chip disc-DOMA mr-2">Doma</span>
-          <span class="text-sm text-neutral-500 font-normal">100 eventos</span>
+          <span class="text-sm text-neutral-500 font-normal">99 eventos</span>
         </h3>
         <ul class="divide-y divide-neutral-200">
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-04" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">4-6 may</time>
-<span class="font-medium">CDI3* Aachen</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-12" data-orden-num="5" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">12-17 may</time>
 <span class="font-medium">CDI5* Hamburg</span>          </li>
@@ -2529,6 +2598,12 @@
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="GB" data-fecha-iso="2026-05-06" data-orden-num="5" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
 <span class="font-medium">CCI5* Badminton</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-06" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
+<span class="font-medium">CCI4* Mill Spring, NC (Tryon)</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="AR" data-fecha-iso="2026-05-06" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-9 may</time>
+<span class="font-medium">CCI3* Campo de Mayo BA</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="DE" data-fecha-iso="2026-05-14" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">14-17 may</time>
 <span class="font-medium">CCIO4*-NC Marbach</span>          </li>
@@ -2556,9 +2631,6 @@
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="10" data-pais="FR" data-fecha-iso="2026-10-22" data-orden-num="5" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">22-25 oct</time>
 <span class="font-medium">CCI5* Pau</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="US" data-fecha-iso="2026-05-06" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-10 may</time>
-<span class="font-medium">CCI4* Mill Spring, NC (Tryon)</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="PL" data-fecha-iso="2026-05-07" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">7-10 may</time>
 <span class="font-medium">CCI4* Sopot</span>          </li>
@@ -2760,9 +2832,6 @@
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="12" data-pais="NZ" data-fecha-iso="2026-12-11" data-orden-num="4" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">11-13 dic</time>
 <span class="font-medium">CCI4* Puhinui</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="AR" data-fecha-iso="2026-05-06" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">6-9 may</time>
-<span class="font-medium">CCI3* Campo de Mayo BA</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="5" data-pais="AU" data-fecha-iso="2026-05-15" data-orden-num="3" data-relevancia="" data-categoria-concurso="internacional">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">15-17 may</time>
 <span class="font-medium">CCI3* Fig Tree Pocket QLD</span>          </li>
@@ -3920,9 +3989,18 @@
   }
 })();
 </script>
+  </div>
+  <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
+</div>
 </main>
 <footer>
   <p>&copy; 2026 Hípica al Día. Medio digital independiente.</p>
+  <nav class="footer-legal" aria-label="Enlaces legales">
+    <a href="legal/aviso-legal.html">Aviso legal</a>
+    <a href="legal/politica-privacidad.html">Política de privacidad</a>
+    <a href="legal/politica-cookies.html">Política de cookies</a>
+    <button type="button" class="footer-legal__cmp" data-cmp-open>Configuración de cookies</button>
+  </nav>
 </footer>
 <script src="js/app.js"></script>
 </body>
