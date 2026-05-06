@@ -85,12 +85,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260506-alix-ragot-se-impone-en-el-gran-premio-del-csi3-de-sentower-park-con-gueule-d.html</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260506-taizo-sugitani-se-impone-en-el-gran-premio-del-csi2-de-deurne-con-quincy-194.html</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,6 +181,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260506-mickey-seaquist-inaugura-con-victoria-la-ruta-de-primavera-en-pineda.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260506-el-club-hipico-la-pinada-acoge-un-cdn3-puntuable-para-la-copa-ancce.html</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,12 +200,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260506-arranca-la-xxxii-edicion-del-trofeo-infanta-elena-de-ponis-en-villafranca-del.html</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260506-mickey-seaquist-inaugura-con-victoria-la-ruta-de-primavera-en-pineda.html</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
