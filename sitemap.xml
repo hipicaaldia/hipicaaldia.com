@@ -25,6 +25,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-09T11:02:40-el-csn3-heras-solumak-completa-su-cartel-con-tres-jornadas-de-competicion-en.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-09T11:02:40-charlotte-bettendorf-gana-el-spring-classic-de-kentucky-en-su-regreso.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-09T11:02:40-los-jinetes-afrontan-el-desafio-del-cross-de-badminton-es-enorme-pero-seria.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-05-09T01:28:05-david-will-se-impone-con-xixo-borgia-en-una-prueba-ranking-del-csi5-de-versilia.html</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,19 +205,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-04T08:14:12-el-cdi-de-las-cadenas-anuncia-su-cartel-de-participantes-en-visperas-de-la-cita.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260509-el-cdi-de-las-cadenas-anuncia-su-cartel-de-participantes-en-visperas-de-la-cita.html</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-04T08:14:12-william-fox-pitt-anticipa-el-trazado-del-cross-country-de-badminton-2026.html</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-03T20:38:36-maximilian-weishaupt-se-impone-en-la-prueba-estelar-del-csio3-de-mannheim.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260509-william-fox-pitt-anticipa-el-trazado-del-cross-country-de-badminton-2026.html</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -218,6 +230,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260509-javier-gutierrez-rilo-se-impone-en-la-grande-del-csn3-de-equus-duri.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260509-maximilian-weishaupt-se-impone-en-la-prueba-estelar-del-csio3-de-mannheim.html</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
