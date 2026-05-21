@@ -2,27 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.hipicaaldia.com/</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/salto.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/doma.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/otros.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-21T09:09:04-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-cria-de-jovenes-caballos.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-21T09:09:04-laura-collett-y-london-52-buscan-su-cuarto-triunfo-consecutivo-en-bicton.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/legal/aviso-legal.html</loc>
@@ -49,51 +61,15 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/editorial/2026-04-24-bienvenida.html</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.hipicaaldia.com/noticias/20260521-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-cria-de-jovenes-caballos.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/calendario/completo.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <loc>https://www.hipicaaldia.com/noticias/20260521-laura-collett-y-london-52-buscan-su-cuarto-triunfo-consecutivo-en-bicton.html</loc>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/calendario/doma.html</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/calendario/enganches.html</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/calendario/paraecuestre.html</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/calendario/raid.html</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/calendario/salto.html</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/calendario/volteo.html</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>
