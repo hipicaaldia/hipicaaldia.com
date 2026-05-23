@@ -2,37 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.hipicaaldia.com/</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/salto.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/doma.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/otros.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-21T09:09:04-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-cria-de-jovenes-caballos.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-23T21:06:54-karl-slezak-lidera-el-cci2-l-de-virginia-tras-la-primera-jornada-de-dressage.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-23T21:06:54-espana-convoca-a-siete-jinetes-para-el-csio3-de-deauville-en-junio.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-23T21:06:54-espana-gana-la-copa-de-naciones-csio3-de-lisboa-tras-desempate-con-sudafrica.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-23T21:06:54-aachen-abre-la-temporada-con-un-tschio-excepcional-en-mayo-y-un-rolex-grand-prix.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-21T09:09:04-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-caballos-jovenes.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-23T21:06:54-espana-compite-con-tres-binomios-en-la-tercera-etapa-del-fei-dressage-nations.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-23T21:06:54-la-federacion-estadounidense-designa-ocho-binomios-para-optar-al-mundial-de-doma.html</loc>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-05-21T09:09:04-laura-collett-y-london-52-buscan-su-cuarto-triunfo-consecutivo-en-bicton.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -59,17 +95,5 @@
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260521-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-cria-de-jovenes-caballos.html</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260521-laura-collett-y-london-52-buscan-su-cuarto-triunfo-consecutivo-en-bicton.html</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>
