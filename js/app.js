@@ -1,4 +1,4 @@
-// Hípica al Día — runtime mínimo.
+// web-fei — runtime mínimo.
 (() => {
   const y = document.querySelector("footer p");
   if (y) { /* fecha ya renderizada server-side */ }
