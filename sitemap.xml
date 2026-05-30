@@ -25,6 +25,42 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-30T10:24:41-mexico-conquista-la-copa-de-naciones-del-csio5-de-roma-78-anos-despues.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-30T10:24:41-ana-garcia-torres-abre-el-csn5-moura-tours-de-valencia-con-victoria-en-145-m.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-30T10:24:41-conor-swail-encadena-seis-victorias-en-nueve-dias-en-el-circuito-canadiense.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-30T10:24:41-maya-denis-se-impone-en-el-time-first-round-del-csi2-del-world-equestrian-center.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-30T10:24:41-kristina-harrison-antell-conquista-el-gran-premio-del-cdi3-de-sherwood-con.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-29T22:11:19-jack-whitaker-gana-la-prueba-ranking-del-csio5-roma-piazza-di-siena.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-05-29T22:11:19-julien-epaillard-gana-la-prueba-ranking-del-csi4-cabourg-classic.html</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,6 +86,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-05-29T10:18:57-la-fei-pide-notificar-todos-los-brotes-de-enfermedades-infecciosas-equinas.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-05-29T21:32:53-denis-lynch-gana-la-prueba-ranking-del-csio5-roma-piazza-di-siena.html</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -157,13 +199,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-26T08:16:46-espana-vuelve-a-saumur-con-representacion-en-enganches.html</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-25T08:21:32-united-touch-s-conquista-el-rolex-grand-prix-de-aachen-con-su-hijo-en-la-misma.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260530-espana-vuelve-a-saumur-con-representacion-en-enganches.html</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -175,13 +211,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-25T08:21:32-belgica-revalida-el-titulo-de-la-copa-de-naciones-de-doma-en-lier-ante-ocho.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260530-united-touch-s-conquista-el-rolex-grand-prix-de-aachen-con-su-hijo-en-la-misma.html</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-25T08:21:32-el-ghma-festival-eventing-de-vermont-anade-un-cci1-a-su-programa-de-agosto.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260530-belgica-revalida-el-titulo-de-la-copa-de-naciones-de-doma-en-lier-ante-ocho.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260530-el-ghma-festival-eventing-de-vermont-anade-un-cci1-a-su-programa-de-agosto.html</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
