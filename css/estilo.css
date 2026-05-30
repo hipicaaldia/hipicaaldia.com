@@ -137,10 +137,7 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
   align-items: center;
   justify-content: center;
 }
-/* 2026-05-30 (feedback usuario): nunca cortar caballo+jinete. Antes
-   `object-fit: cover` recortaba cabeza/grupa en fotos verticales. Con
-   `contain` la foto se ve entera, con franjas color de marca si el
-   aspect ratio difiere de 16:9. */
+/* 2026-05-30 (feedback usuario): nunca cortar caballo+jinete. */
 .tarjeta .tarjeta-imagen img {
   max-width: 100%;
   max-height: 100%;
@@ -228,8 +225,7 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
   max-width: 800px;
   margin: 0 auto;
   aspect-ratio: 16 / 9;
-  /* 2026-05-30: contain para no cortar caballo+jinete. Background del
-     contenedor cubre las franjas si la foto no es 16:9. */
+  /* 2026-05-30: contain para no cortar caballo+jinete. */
   object-fit: contain;
   background: var(--c-fondo);
   border-radius: 4px;
