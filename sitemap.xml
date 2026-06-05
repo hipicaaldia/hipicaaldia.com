@@ -25,6 +25,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-05T22:22:01-amy-millar-y-christiano-abren-el-csi5-spruce-meadows-continental-con-victoria-en.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-05T22:19:14-spruce-meadows-abre-el-continental-con-cuatro-dias-de-salto-y-categorias-hasta.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +44,24 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-05T10:24:11-espana-cerrara-el-orden-de-salida-en-la-copa-de-naciones-del-csio3-de-deauville.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-05T10:24:11-thibeau-spits-mantiene-el-liderato-del-ranking-longines-fei-u-25.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-05T22:22:01-andalucia-conquista-el-oro-por-equipos-del-campeonato-de-espana-de-doma-clasica.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-05T22:22:01-claudio-castilla-conquista-el-gran-premio-del-campeonato-de-espana-de-doma.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -133,19 +157,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-31T20:39:50-louis-le-grelle-conquista-el-gran-premio-del-csi2-de-bonheiden.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-louis-le-grelle-conquista-el-gran-premio-del-csi2-de-bonheiden.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-31T10:18:50-kristina-harrison-antell-y-finley-ganan-el-freestyle-del-cdi3-de-sherwood-con.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-kristina-harrison-antell-y-finley-ganan-el-freestyle-del-cdi3-de-sherwood-con.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-31T10:18:50-la-fei-crea-un-grupo-de-trabajo-multidisciplinar-para-revisar-los-protocolos-de.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-la-fei-crea-un-grupo-de-trabajo-multidisciplinar-para-revisar-los-protocolos-de.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -169,6 +193,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-gran-bretana-lidera-en-casa-la-copa-de-naciones-de-bicton-tras-la-doma.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260605-kristina-harrison-antell-conquista-el-gran-premio-del-cdi3-de-sherwood-con.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,13 +211,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-31T10:18:50-gran-bretana-lidera-en-casa-la-copa-de-naciones-de-bicton-tras-la-doma.html</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-05-31T10:18:50-london-52-sale-lider-del-cci4-s-de-bicton-con-laura-collett.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-london-52-sale-lider-del-cci4-s-de-bicton-con-laura-collett.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
