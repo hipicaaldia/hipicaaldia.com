@@ -25,6 +25,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-14T11:32:49-el-real-club-de-polo-de-barcelona-cancela-el-csn5-de-la-liga-nacional-por.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-14T10:07:37-uxue-arruza-conquista-el-gran-premio-del-csioj-de-hagen-con-clarin-de-llamosasa.html</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +44,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-14T10:07:37-las-mestas-estrena-nueva-pista-de-entrenamiento-con-destino-al-csi-de-gijon.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-14T10:07:37-spencer-smith-conquista-el-gran-premio-csi4-de-traverse-city-con-un-desempate.html</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -139,12 +151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-12T08:43:06-sergio-alvarez-moya-gana-la-prueba-inaugural-del-csi5-lgct-de-saint-tropez-con.html</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260614-chacco-blue-el-semental-que-reescribio-el-ranking-wbfsh-de-salto.html</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,6 +170,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260614-la-semana-del-salto-la-baule-csio5-y-st-tropez-gct-marcan-el-calendario-europeo.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260614-sergio-alvarez-moya-gana-la-prueba-inaugural-del-csi5-lgct-de-saint-tropez-con.html</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
