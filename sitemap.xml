@@ -25,6 +25,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-15T21:49:05-csio5-de-rotterdam-41-jinetes-de-11-paises.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-14T11:32:49-el-real-club-de-polo-de-barcelona-cancela-el-csn5-de-la-liga-nacional-por.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,12 +151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-chacco-blue-el-semental-que-reescribio-el-ranking-wbfsh-de-salto.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-hans-gunter-winkler-y-halla-el-binomio-de-los-tres-oros-olimpicos-del-salto.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,6 +158,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-italia-conquista-la-copa-de-naciones-longines-eef-del-csio3-de-deauville.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-juan-manuel-gallego-firma-podio-en-spruce-meadows-con-indiana-de-san-isidro.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -175,24 +181,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-caroline-pamukcu-firma-el-doblete-en-el-cci4-l-de-bromont-con-hsh-double-sixteen.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-juan-manuel-gallego-firma-podio-en-spruce-meadows-con-indiana-de-san-isidro.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-lauren-nicholson-conquista-el-cci4-l-de-bromont-con-larcot-z-y-un-doble-cero.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-12T11:45:56-tom-jackson-lidera-el-cci4-l-de-bramham-tras-la-doma-y-afronta-este-sabado-el.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,31 +193,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-prueba-artistica.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-caroline-pamukcu-firma-el-doblete-en-el-cci4-l-de-bromont-con-hsh-double-sixteen.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-bramham-horse-trials-estrena-recorrido-invertido-en-el-cross-del-cci4-l.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-chacco-blue-el-semental-que-reescribio-el-ranking-wbfsh-de-salto.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-caroline-pamukcu-firma-el-doblete-en-el-cci4-l-de-mars-bromont-con-hsh-double.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-lauren-nicholson-conquista-el-cci4-l-de-bromont-con-larcot-z-y-un-doble-cero.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-espana-convoca-equipo-para-la-semifinal-de-la-longines-eef-series-en-kronenberg.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-estados-unidos-despliega-su-potencial-en-la-copa-de-naciones-de-hagen.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -247,13 +229,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-german-camargo-gana-el-wellington-national-grand-prix-con-ophelia.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-prueba-artistica.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-katie-laurie-gana-el-gran-premio-csi5-de-160-m-en-spruce-meadows.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-estados-unidos-despliega-su-potencial-en-la-copa-de-naciones-de-hagen.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-bramham-horse-trials-estrena-recorrido-invertido-en-el-cross-del-cci4-l.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-caroline-pamukcu-firma-el-doblete-en-el-cci4-l-de-mars-bromont-con-hsh-double.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -265,13 +259,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-german-camargo-gana-el-wellington-national-grand-prix-con-ophelia.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-hof-kasselmann-y-schockemohle-celebran-su-quinta-subasta-hibrida-el-12-de-junio.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-isabell-werth-conquista-su-19o-oro-en-el-campeonato-aleman-con-wendy-de-fontaine.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-katie-laurie-gana-el-gran-premio-csi5-de-160-m-en-spruce-meadows.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -289,6 +289,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-isabell-werth-conquista-su-19o-oro-en-el-campeonato-aleman-con-wendy-de-fontaine.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-jose-bono-firma-un-segundo-puesto-en-el-gran-premio-del-csi2-de-st-tropez.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,6 +302,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-la-baule-reune-a-la-elite-mundial-del-salto-a-dos-meses-del-mundial-de-aachen.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-simon-delestre-evoluciona-favorablemente-tras-su-caida-en-el-global-champions.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -319,25 +331,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-simon-delestre-evoluciona-favorablemente-tras-su-caida-en-el-global-champions.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-christian-kukuk-conquista-el-campeonato-de-alemania-de-saltos-con-akarad-tivoli.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-marcus-ehning-se-impone-en-el-gran-premio-del-csio5-de-st-gallen.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-kur-gran-premio.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -349,13 +343,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-isabell-werth-conquista-el-campeonato-de-alemania-de-freestyle-con-viva-gold-old.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-marcus-ehning-se-impone-en-el-gran-premio-del-csio5-de-st-gallen.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-isabell-werth-culmina-el-pleno-en-el-campeonato-de-alemania-con-viva-gold-old.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-kur-gran-premio.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-isabell-werth-conquista-el-campeonato-de-alemania-de-freestyle-con-viva-gold-old.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -373,13 +379,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-inseminacion-icsi-y-transferencia-embrionaria-las-tres-llaves-de-la-cria-fei.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-new-york-empire-conquista-la-global-champions-league-de-cannes.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-spruce-meadows-abre-el-continental-con-cuatro-dias-de-salto-y-categorias-hasta.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-thibeau-spits-mantiene-el-liderato-del-ranking-longines-fei-u-25.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -409,6 +421,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-sharon-white-lidera-el-cci4-l-de-bromont-con-claus-63-tras-la-primera-jornada-de.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-como-se-aprueba-un-semental-la-korung-el-filtro-que-decide-que-caballos-pueden.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,19 +439,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-new-york-empire-conquista-la-global-champions-league-de-cannes.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-sharon-white-lidera-el-cci4-l-de-bromont-con-claus-63-tras-la-primera-jornada-de.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-thibeau-spits-mantiene-el-liderato-del-ranking-longines-fei-u-25.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-inseminacion-icsi-y-transferencia-embrionaria-las-tres-llaves-de-la-cria-fei.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -452,6 +458,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-mariano-martinez-bastida-se-impone-en-el-gran-premio-del-csn5-moura-tours.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-bolesworth-estrena-en-2026-una-formula-con-dos-fines-de-semana-y-debuta-el.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -487,13 +499,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-kristina-harrison-antell-y-finley-ganan-el-freestyle-del-cdi3-de-sherwood-con.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-spruce-meadows-arranca-la-temporada-el-3-de-junio-con-el-national-presentado-por.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-bolesworth-estrena-en-2026-una-formula-con-dos-fines-de-semana-y-debuta-el.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-kristina-harrison-antell-y-finley-ganan-el-freestyle-del-cdi3-de-sherwood-con.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -505,13 +517,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-spruce-meadows-arranca-la-temporada-el-3-de-junio-con-el-national-presentado-por.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-ana-garcia-torres-abre-el-csn5-moura-tours-de-valencia-con-victoria-en-145-m.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-ana-garcia-torres-abre-el-csn5-moura-tours-de-valencia-con-victoria-en-145-m.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-conor-swail-encadena-seis-victorias-en-nueve-dias-en-el-circuito-canadiense.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -529,19 +541,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-gran-bretana-lidera-en-casa-la-copa-de-naciones-de-bicton-tras-la-doma.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-kristina-harrison-antell-conquista-el-gran-premio-del-cdi3-de-sherwood-con.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-conor-swail-encadena-seis-victorias-en-nueve-dias-en-el-circuito-canadiense.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-gran-bretana-lidera-en-casa-la-copa-de-naciones-de-bicton-tras-la-doma.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -571,13 +577,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-la-fei-pide-notificar-todos-los-brotes-de-enfermedades-infecciosas-equinas.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-mckayla-langmeier-firma-su-segundo-triunfo-consecutivo-en-el-devon-horse-show.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-mckayla-langmeier-firma-su-segundo-triunfo-consecutivo-en-el-devon-horse-show.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-la-fei-pide-notificar-todos-los-brotes-de-enfermedades-infecciosas-equinas.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -661,25 +667,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-gran-bretana-confirma-su-equipo-para-la-copa-de-naciones-del-ccio4-s-de-bicton.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-wellington-international-amplia-sus-instalaciones-con-un-quinto-establo-y-gradas.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-csio5-de-roma-alberto-marquez-galobardes-y-armando-trapote-defienden-a-espana.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-gran-bretana-confirma-su-equipo-para-la-copa-de-naciones-del-ccio4-s-de-bicton.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-angel-cerdido-gastesi-copa-el-podio-del-gran-premio-de-valdemoro-con-dos-ceros.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-csio5-de-roma-alberto-marquez-galobardes-y-armando-trapote-defienden-a-espana.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -775,6 +781,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260615-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-caballos-jovenes.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-espana-compite-con-tres-binomios-en-la-tercera-etapa-del-fei-dressage-nations.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -782,12 +794,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260615-la-federacion-estadounidense-designa-ocho-binomios-para-optar-al-mundial-de-doma.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260615-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-caballos-jovenes.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
