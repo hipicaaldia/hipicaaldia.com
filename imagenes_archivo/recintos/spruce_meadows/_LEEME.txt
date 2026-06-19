@@ -1,0 +1,18 @@
+BANCO LOCAL DE FOTOS — Spruce Meadows (cesión del comité organizador)
+=====================================================================
+
+Deja aquí las fotos cedidas por el comité de Spruce Meadows (.jpg/.jpeg/.png/.webp).
+El pipeline de correo (foto_para_noticia_correo → _foto_local_recinto) usará la
+primera de esta carpeta para cualquier noticia cuyo titular/entradilla mencione
+"Spruce Meadows" o "Calgary".
+
+ANTES DE SEMBRAR — CRÉDITO PACTADO (OBLIGATORIO):
+  La atribución debe ser la EXACTA acordada con el comité (POLITICA_IMAGENES.md),
+  literal, como con LGCT ("Foto: © Longines Global Champions Tour.").
+  Mientras el crédito no esté confirmado, la entrada de Spruce Meadows en
+  motor_ecuestre/correo_fuente.py::_VENUES_LOCALES está en None y el pipeline
+  NO servirá estas fotos (no se publica una foto cedida con un crédito no pactado).
+
+  Para activar: pon el crédito exacto en _VENUES_LOCALES["spruce meadows"] (y
+  "calgary"), p. ej.:
+      "spruce meadows": "Foto: © Spruce Meadows.",

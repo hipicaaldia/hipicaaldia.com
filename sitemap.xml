@@ -37,12 +37,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-19T22:13:39-matt-sampson-y-un-secreto-z-conquistan-el-derby-tankard-en-hickstead.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-19T22:13:39-paises-bajos-conquista-la-longines-league-of-nations-del-chio-rotterdam.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -368,6 +362,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260619-lauren-nicholson-conquista-el-cci4-l-de-bromont-con-larcot-z-y-un-doble-cero.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260619-tom-jackson-lidera-el-cci4-l-de-bramham-tras-la-doma-y-afronta-este-sabado-el.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
