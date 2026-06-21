@@ -49,12 +49,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-21T11:59:35-riesenbeck-international-recupera-el-liderato-de-la-gcl-con-triunfo-perfecto-en.html</loc>
-    <lastmod>2026-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-19T22:13:39-tracy-fenney-se-impone-en-el-gran-premio-de-50-000-de-ocala-con-mtm-apple.html</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,6 +85,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-18T22:18:30-daniel-coyle-y-farrel-firman-el-unico-doble-cero-de-la-atb-cup-csi5-en-spruce.html</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-18T22:18:30-el-al-shiraaa-hickstead-derby-meeting-arranca-el-18-de-junio-con-ganadores.html</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,6 +104,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-18T22:18:30-falsterbo-recupera-el-sello-cdio5-de-doma-seis-anos-despues-de-la-pandemia.html</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-18T22:18:30-stefan-lehfellner-barre-el-grand-prix-special-tour-del-cdi4-de-achleiten-con.html</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
