@@ -25,6 +25,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/cria.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-23T10:17:42-otti-verdu-se-proclama-campeona-de-la-iv-copa-comunidad-de-madrid-en-el-club.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,6 +86,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-21T11:59:35-caroline-harris-lidera-el-cross-country-del-longines-luhmuhlen-cci5-con-d-day.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-21T11:59:35-riesenbeck-international-recupera-el-liderato-de-la-gcl-con-triunfo-perfecto-en.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
