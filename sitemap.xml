@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-29T10:16:23-becky-moody-desvela-los-desafios-logisticos-del-traslado-de-jagerbomb-a-la-copa.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-29T08:07:36-richard-vogel-domina-en-spruce-meadows-con-tres-victorias-en-un-dia.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +44,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-29T08:07:36-la-semana-del-salto-spruce-meadows-csi5-bolesworth-csi4-y-maeza-csi3-entre-lunes.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-29T10:16:23-la-fei-recuerda-el-cierre-de-inscripciones-para-el-mundial-de-aachen-2026.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -175,25 +187,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-22T11:36:38-william-whitaker-y-flamboyant-iii-conquistan-el-al-shiraaa-hickstead-derby.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260629-william-whitaker-y-flamboyant-iii-conquistan-el-al-shiraaa-hickstead-derby.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-22T11:36:38-caroline-harris-y-d-day-conquistan-el-longines-luhmuhlen-cci5.html</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-21T20:03:16-max-kuhner-conquista-el-gran-premio-del-lgct-de-paris-con-eic-up-too-jacco-blue.html</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-21T19:35:26-victor-bettendorf-triunfa-en-el-eiffel-challenge-del-lgct-de-paris.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -206,6 +206,18 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260629-mark-edwards-gana-el-speed-derby-de-hickstead-con-un-caballo-que-vio-las-vallas.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260629-max-kuhner-conquista-el-gran-premio-del-lgct-de-paris-con-eic-up-too-jacco-blue.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260629-victor-bettendorf-triunfa-en-el-eiffel-challenge-del-lgct-de-paris.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1184,43 +1196,43 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/calendario/completo.html</loc>
-    <lastmod>2026-06-28</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/calendario/doma.html</loc>
-    <lastmod>2026-06-28</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/calendario/enganches.html</loc>
-    <lastmod>2026-06-28</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/calendario/paraecuestre.html</loc>
-    <lastmod>2026-06-28</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/calendario/raid.html</loc>
-    <lastmod>2026-06-28</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/calendario/salto.html</loc>
-    <lastmod>2026-06-28</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/calendario/volteo.html</loc>
-    <lastmod>2026-06-28</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
