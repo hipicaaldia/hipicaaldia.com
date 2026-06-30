@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-06-30T11:37:47-suecia-preselecciona-a-henrik-von-eckermann-y-otros-seis-jinetes-para-el-mundial.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-06-30T10:15:43-espana-busca-en-kronenberg-su-pase-a-la-final-de-la-longines-eef-series.html</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,13 +199,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-24T11:57:39-representacion-espanola-en-el-cdi4-de-crozet-con-gran-premio-y-caballos-jovenes.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260630-ellesse-gundersen-y-kevin-kohmann-se-incorporan-al-programa-de-desarrollo-de.html</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260630-ellesse-gundersen-y-kevin-kohmann-se-incorporan-al-programa-de-desarrollo-de.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260630-representacion-espanola-en-el-cdi4-de-crozet-con-gran-premio-y-caballos-jovenes.html</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -314,6 +320,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260630-falsterbo-recupera-el-sello-cdio5-de-doma-seis-anos-despues-de-la-pandemia.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260630-stefan-lehfellner-barre-el-grand-prix-special-tour-del-cdi4-de-achleiten-con.html</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
