@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-03T22:13:18-juan-manuel-gallego-firma-un-doblete-espanol-en-spruce-meadows-con-primavera-e.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-03T22:13:18-maximilian-weishaupt-firma-el-triunfo-en-el-prix-nikki-beach-del-csi5-de-monte.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-03T11:34:01-alemania-anuncia-su-equipo-de-salto-para-el-mundial-de-aachen-con-deusser.html</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,19 +169,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-30T10:15:43-espana-busca-en-kronenberg-su-pase-a-la-final-de-la-longines-eef-series.html</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260703-el-csi-maeza-arranca-este-viernes-con-foco-en-la-cria-nacional-y-dos-trofeos.html</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-06-30T10:15:43-la-fei-fija-el-6-de-julio-como-plazo-para-inscripciones-en-el-mundial-de-aachen.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260703-espana-busca-en-kronenberg-su-pase-a-la-final-de-la-longines-eef-series.html</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -182,6 +188,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260703-francia-se-impone-en-la-copa-de-naciones-de-concurso-completo-de-strzegom.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260703-la-fei-fija-el-6-de-julio-como-plazo-para-inscripciones-en-el-mundial-de-aachen.html</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
