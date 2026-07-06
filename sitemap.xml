@@ -61,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-06T12:06:22-espana-sale-de-ornago-con-seis-binomios-y-confianza-rumbo-al-mundial-de-aachen.html</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-06T10:38:36-cornet-obolensky-el-semental-de-zangersheide-que-marco-una-generacion-en-el.html</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -194,12 +200,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260706-lillie-keenan-se-impone-en-la-jayman-built-cup-1-55m-de-spruce-meadows.html</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-03T11:34:01-falsterbo-recupera-la-copa-de-naciones-cdio5-de-doma-con-laudrup-dufour-a-la.html</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -584,6 +584,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260706-falsterbo-recupera-el-sello-cdio5-de-doma-seis-anos-despues-de-la-pandemia.html</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260706-stefan-lehfellner-barre-el-grand-prix-special-tour-del-cdi4-de-achleiten-con.html</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
