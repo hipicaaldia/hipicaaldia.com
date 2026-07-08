@@ -31,12 +31,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-08T11:34:01-gran-bretana-deposita-15-binomios-como-nominados-para-el-mundial-de-salto-de.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-08T11:34:01-falsterbo-reune-al-top-mundial-farrington-vogel-maher-y-el-tridente-sueco.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,6 +248,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260708-estados-unidos-ultima-su-alineacion-de-copa-de-naciones-de-doma-con-varias-dudas.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260708-falsterbo-recupera-la-copa-de-naciones-cdio5-de-doma-con-laudrup-dufour-a-la.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -914,6 +914,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260708-lauren-nicholson-conquista-el-cci4-l-de-bromont-con-larcot-z-y-un-doble-cero.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260708-tom-jackson-lidera-el-cci4-l-de-bramham-tras-la-doma-y-afronta-este-sabado-el.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
