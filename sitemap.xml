@@ -31,6 +31,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-08T11:34:01-gran-bretana-deposita-15-binomios-como-nominados-para-el-mundial-de-salto-de.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-08T11:34:01-falsterbo-reune-al-top-mundial-farrington-vogel-maher-y-el-tridente-sueco.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-08T11:18:56-espana-inscribe-quince-jinetes-en-la-lista-nominativa-para-los-juegos-mundiales.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-08T11:18:56-italia-lidera-en-europa-el-reconocimiento-del-caballo-como-atleta.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,6 +68,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-07T11:36:48-australia-deposita-en-la-fei-su-lista-de-nominados-para-el-mundial-de-aachen-en.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-07T10:37:24-el-asiento-del-jinete-la-base-invisible-sobre-la-que-se-construye-toda-monta.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -133,19 +157,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-04T12:36:26-kent-farrington-gana-la-welcome-stake-de-145-m-del-csi3-de-traverse-city.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-04T12:36:26-el-real-club-de-polo-y-tennium-se-alian-para-impulsar-el-csio5-barcelona.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260708-el-real-club-de-polo-y-tennium-se-alian-para-impulsar-el-csio5-barcelona.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260708-espana-se-cuelga-el-bronce-en-kronenberg-y-sella-su-pase-para-la-final-de-la.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260708-kent-farrington-gana-la-welcome-stake-de-145-m-del-csi3-de-traverse-city.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -181,7 +205,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-04T12:36:26-antonio-campos-pena-reclama-un-entrenador-nacional-de-concurso-completo-para.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260708-antonio-campos-pena-reclama-un-entrenador-nacional-de-concurso-completo-para.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
