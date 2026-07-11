@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-11T06:33:38-falsterbo-estrena-este-domingo-el-primer-rolex-grand-prix-de-escandinavia.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-11T05:21:38-marc-dilasser-conquista-el-prix-saur-en-chantilly-con-un-desempate-al-limite.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,19 +169,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-05T11:31:54-ricardo-gil-santos-gana-el-trofeo-caixabank-del-csi3-de-maeza-por-dos-centesimas.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260711-abdulrahman-alrajhi-se-impone-en-la-copa-atco-queen-elizabeth-ii-de-spruce.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-05T11:31:54-jose-antonio-garcia-mena-roza-el-podio-en-la-kur-del-cdio4-de-hagen.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260711-ricardo-gil-santos-gana-el-trofeo-caixabank-del-csi3-de-maeza-por-dos-centesimas.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260711-jose-antonio-garcia-mena-roza-el-podio-en-la-kur-del-cdio4-de-hagen.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
