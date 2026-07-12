@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-12T06:31:41-karl-cook-y-caracole-de-la-roque-conquistan-el-rolex-grand-prix-de-falsterbo.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-12T06:31:41-farrington-encabeza-el-ranking-fei-de-julio-por-tercer-mes-seguido-con-vogel-al.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-12T05:16:32-federica-fernandez-conquista-el-trofeo-checkpoint-por-dos-centesimas-en-casas.html</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -44,6 +56,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-07-12T05:16:32-ivan-serrano-conquista-el-trofeo-caixabank-del-csi4-de-a-coruna-con-rain-man.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-07-12T06:31:41-alemania-confirma-su-equipo-de-doma-para-el-mundial-de-aachen-con-werth-al.html</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -151,7 +169,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-07T10:37:24-moritz-treffinger-conquista-el-gran-premio-especial-del-cdi3-de-hagen-con.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260712-moritz-treffinger-conquista-el-gran-premio-especial-del-cdi3-de-hagen-con.html</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
