@@ -181,12 +181,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-07-19T03:58:48-laura-kraut-se-impone-en-la-kingsland-trophy-del-lgct-riesenbeck-con-baloutinue.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260727-basel-cosmopolitans-logran-su-primera-victoria-en-la-gcl-con-remontada-epica.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -194,6 +188,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260727-ignacio-maurin-conquista-el-prize-of-fundis-reitsport-del-csi3-de-riesenbeck.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260727-laura-kraut-se-impone-en-la-kingsland-trophy-del-lgct-riesenbeck-con-baloutinue.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
