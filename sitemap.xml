@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-10T15:57:07-mexico-amigos-firma-su-primer-triunfo-gcl-de-la-temporada-en-londres-con-el.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260810-alex-codina-roza-la-victoria-con-london-blue-en-el-gp-del-csi2-de-esposende.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +44,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260810-la-semana-del-salto-doce-csi-acompanan-el-arranque-del-mundial-fei-aachen.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-10T15:57:07-mas-de-90-binomios-pasan-hoy-el-primer-horse-inspection-de-la-doma-en-el-mundial.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -211,12 +223,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-01T12:43:12-uxue-arruza-clarin-es-el-caballo-de-mi-vida.html</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260810-el-csi-gijon-2026-agota-los-266-palcos-de-las-mestas-por-primera-vez-en-su.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,13 +235,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260810-uxue-arruza-clarin-es-el-caballo-de-mi-vida.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260810-agosto-reune-dos-campeonatos-del-mundo-con-narracion-en-espanol.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-01T12:43:12-estados-unidos-designa-su-equipo-de-completo-para-el-mundial-de-aachen-2026.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260810-estados-unidos-designa-su-equipo-de-completo-para-el-mundial-de-aachen-2026.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
