@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-12T10:23:25-scott-brash-y-harry-charles-figuran-en-la-lista-de-participantes-del-csi4-de.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260812-estrellas-de-hollywood-y-casas-reales-abren-el-mundial-de-aquisgran-2026.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,12 +241,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-01T22:52:23-steve-guerdat-gana-el-derby-saur-csi3-de-dinard-con-armando-trapote-segundo.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260812-ben-maher-y-ginger-blue-conquistan-el-prix-key-player-csi5-de-dinard.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,6 +260,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260812-felix-jarry-y-elgaura-ganan-el-prix-range-rover-csi3-de-dinard.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260812-steve-guerdat-gana-el-derby-saur-csi3-de-dinard-con-armando-trapote-segundo.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
