@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-24T10:10:26-la-semana-del-salto-el-csio5-de-bruselas-y-el-csi4-de-gijon-lideran-la-agenda.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-08-24T09:31:52-contendro-i-el-semental-holsteiner-detras-del-oro-mundial-de-completo-en-aachen.html</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,7 +253,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-11T23:37:03-alemania-lidera-el-mundial-de-doma-tras-la-primera-jornada-en-aquisgran.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260824-alemania-lidera-el-mundial-de-doma-tras-la-primera-jornada-en-aquisgran.html</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
