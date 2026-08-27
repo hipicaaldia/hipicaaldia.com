@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-27T12:02:55-giesteira-almeida-abre-el-csi4-de-gijon-con-eduardo-alvarez-aznar-segundo.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-27T12:02:55-kent-farrington-y-mclain-ward-encabezan-el-csi5-hampton-classic-2026.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-08-27T10:29:30-los-hermanos-ortiz-aguera-firman-un-doblete-en-el-podio-de-la-manga-ganadora-del.html</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,19 +241,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-15T10:16:05-julia-krajewski-lidera-el-mundial-de-completo-de-aachen-tras-la-doma.html</loc>
-    <lastmod>2026-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260827-el-mundial-de-volteo-en-aachen-2026-vive-una-jornada-de-emociones-extremas.html</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-15T08:02:14-julia-krajewski-lidera-el-mundial-de-concurso-completo-tras-la-dressage.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260827-julia-krajewski-lidera-el-mundial-de-completo-de-aachen-tras-la-doma.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260827-julia-krajewski-lidera-el-mundial-de-concurso-completo-tras-la-dressage.html</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
