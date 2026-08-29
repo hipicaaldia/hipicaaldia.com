@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-29T11:37:53-espana-supera-el-vet-check-y-estara-el-domingo-en-el-salto-de-los-mediterraneos.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-29T11:37:53-harry-charles-pasa-del-bronce-mundial-en-aachen-a-ganar-el-155-m-del-csi4-de.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-08-29T10:15:28-kristen-vanderveen-domina-la-calificativa-de-155-m-del-csi5-de-bruselas.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,6 +62,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260829-el-tribunal-fei-sanciona-al-jinete-australiano-heath-ryan-por-maltrato-animal.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-29T11:37:53-david-perinan-entra-al-top-ten-del-europeo-de-jovenes-jinetes-de-completo-tras.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -235,13 +253,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-18T11:23:08-espana-pasa-la-revision-veterinaria-del-mundial-de-salto-con-sus-cinco-binomios.html</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-18T10:13:36-samuel-parot-gana-el-gran-premio-del-csi3-de-ocala-con-tiffany-de-olid.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260829-espana-pasa-la-revision-veterinaria-del-mundial-de-salto-con-sus-cinco-binomios.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -253,7 +265,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-18T14:10:24-240-000-espectadores-en-la-primera-semana-del-mundial-de-aquisgran-2026.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260829-samuel-parot-gana-el-gran-premio-del-csi3-de-ocala-con-tiffany-de-olid.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260829-240-000-espectadores-en-la-primera-semana-del-mundial-de-aquisgran-2026.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
