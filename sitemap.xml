@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-30T11:38:48-oliver-lazarus-conquista-el-gran-premio-del-csi4-de-gijon-con-conbalthago-ps.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-08-30T11:38:47-nina-mallevaey-firma-en-bruselas-su-primer-rolex-grand-prix-con-dynastie-de.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-08-30T10:13:42-ivan-serrano-saez-segundo-en-el-gran-premio-de-145-m-del-csi2-de-gijon.html</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -217,18 +229,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-22T22:55:03-victoria-multinacional-en-el-innovador-concurso-por-equipos-de-jovenes-jinetes.html</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-22T20:09:30-siete-binomios-logran-el-doblete-perfecto-en-el-allianz-prize-de-aquisgran.html</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260830-alemania-reconquista-el-oro-mundial-de-salto-por-equipos-tras-16-anos.html</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -236,6 +236,18 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260830-espana-contara-con-dos-binomios-en-la-final-individual-del-mundial-de-saltos.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260830-siete-binomios-logran-el-doblete-perfecto-en-el-allianz-prize-de-aquisgran.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260830-victoria-multinacional-en-el-innovador-concurso-por-equipos-de-jovenes-jinetes.html</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
