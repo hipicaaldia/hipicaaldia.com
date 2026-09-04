@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-04T22:22:20-scott-brash-y-hello-chadora-lady-se-llevan-la-prueba-ranking-del-lgct-de.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-04T22:22:20-philipp-weishaupt-y-callao-l-firman-la-prueba-individual-del-lgct-de.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-04T10:24:34-karl-cook-y-foxy-de-la-roque-sellan-otra-victoria-en-el-tournament-of-champions.html</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,19 +241,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-30T10:13:42-leonardo-medal-y-ecloma-k-s-h-lideran-el-pleno-espanol-en-el-csi-yh1-de-gijon.html</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-08-30T10:13:41-yuri-mansur-conquista-la-prueba-de-145-m-del-csi4-de-gijon-con-my-lady-lavista.html</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260904-jess-mendoza-supe-que-los-caballos-serian-la-parte-principal-de-mi-vida.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260904-leonardo-medal-y-ecloma-k-s-h-lideran-el-pleno-espanol-en-el-csi-yh1-de-gijon.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260904-yuri-mansur-conquista-la-prueba-de-145-m-del-csi4-de-gijon-con-my-lady-lavista.html</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
