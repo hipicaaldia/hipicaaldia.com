@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-06T19:51:57-rodrigo-giesteira-almeida-conquista-el-gran-premio-del-csi2-de-esposende.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-06T19:51:57-yuri-mansur-conquista-su-primer-grand-prix-de-valkenswaard-con-una-remontada.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-06T12:40:40-llegada-estelar-50-caballos-de-elite-aterrizan-en-calgary-para-el-masters.html</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,18 +205,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-02T11:31:59-segovia-acoge-el-campeonato-de-espana-de-saltos-de-menores-2026-con-174-binomios.html</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-02T10:08:52-shane-sweetnam-conquista-la-prueba-ranking-de-150-m-del-csi5-hampton-classic.html</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260906-carlos-bosch-se-cuelga-el-oro-en-salto-de-los-juegos-mediterraneos-de-taranto.html</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +218,18 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260906-kent-farrington-conquista-el-longines-hampton-classic-5-grand-prix.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260906-segovia-acoge-el-campeonato-de-espana-de-saltos-de-menores-2026-con-174-binomios.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260906-shane-sweetnam-conquista-la-prueba-ranking-de-150-m-del-csi5-hampton-classic.html</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3127,12 +3139,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260906-mclain-ward-denuncia-comentarios-atroces-de-adultos-sobre-el-exito-de-su-hija-de.html</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260906-riccardo-pisani-gana-la-prueba-ranking-de-150-m-del-csio5-roma.html</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -3146,6 +3152,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260906-el-campeonato-de-espana-absoluto-de-doma-clasica-ya-tiene-sede-para-junio.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260906-mclain-ward-denuncia-comentarios-atroces-de-adultos-sobre-el-exito-de-su-hija-de.html</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
