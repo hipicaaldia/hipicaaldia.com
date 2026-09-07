@@ -31,7 +31,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-07T10:16:27-belgica-conquista-la-final-de-la-longines-eef-series-en-avenches.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-07T09:18:39-llegan-mas-de-100-caballos-a-calgary-para-el-spruce-meadows-masters-2026.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260907-abdel-said-mantiene-el-liderato-del-longines-global-champions-tour-tras.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -187,7 +199,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-03T13:01:16-el-longines-global-champions-tour-regresa-a-valkenswaard-con-un-cartel-de.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260907-el-longines-global-champions-tour-regresa-a-valkenswaard-con-un-cartel-de.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
