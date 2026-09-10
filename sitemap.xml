@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-10T23:24:32-daniel-coyle-conquista-la-cardel-homes-cup-del-csio5-spruce-meadows-masters.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-10T23:24:32-richard-vogel-se-impone-en-la-telus-cup-del-csio5-spruce-meadows-masters.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-10T14:50:28-arranca-el-spruce-meadows-masters-2026-con-5-millones-en-juego.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,19 +217,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-04T22:22:20-scott-brash-y-hello-chadora-lady-se-llevan-la-prueba-ranking-del-lgct-de.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-04T22:22:20-philipp-weishaupt-y-callao-l-firman-la-prueba-individual-del-lgct-de.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260910-karl-cook-y-foxy-de-la-roque-sellan-otra-victoria-en-el-tournament-of-champions.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260910-philipp-weishaupt-y-callao-l-firman-la-prueba-individual-del-lgct-de.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260910-scott-brash-y-hello-chadora-lady-se-llevan-la-prueba-ranking-del-lgct-de.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
