@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-11T13:55:13-lillie-keenan-y-kick-on-se-llevan-la-cana-cup-y-sellan-billete-para-el.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-11T10:07:41-habra-equipo-en-el-csio4-de-rabat.html</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,7 +211,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-05T10:17:12-tayla-mason-retira-a-centennial-del-cross-de-burghley-por-precaucion.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260911-tayla-mason-retira-a-centennial-del-cross-de-burghley-por-precaucion.html</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3145,12 +3151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260911-conor-swail-encadena-seis-victorias-en-nueve-dias-en-el-circuito-canadiense.html</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260911-maya-denis-se-impone-en-el-time-first-round-del-csi2-del-world-equestrian-center.html</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -3164,6 +3164,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260911-kristina-harrison-antell-conquista-el-gran-premio-del-cdi3-de-sherwood-con.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260911-conor-swail-encadena-seis-victorias-en-nueve-dias-en-el-circuito-canadiense.html</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
