@@ -165,6 +165,13 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .layout-grid.tiene-sidebar > .slot-sidebar {
   display: block;
 }
+/* La columna PROPIA del sitio (agenda) NO se pega al scroll: pegada, lo que
+   no cabe en la ventana se quedaba cortado por abajo y no había forma de
+   llegar a las últimas citas. Baja con la página y desaparece. El patrocinio
+   sí sigue pegado, que es un banner corto (2026-09-14). */
+.slot-sidebar--propio {
+  position: static;
+}
 @media (max-width: 1023px) {
   .layout-grid[data-layout="con-sidebar"] {
     grid-template-columns: 1fr !important;
