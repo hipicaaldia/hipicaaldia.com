@@ -153,6 +153,20 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .layout-grid[data-layout="con-sidebar"].tiene-sidebar {
   grid-template-columns: 1fr 300px;
 }
+/* PORTADA (2026-09-15): columna al ancho de WoSJ — 770 px de contenido + 300
+   de lateral, centrados. Antes la columna principal medía ~1060 px y la foto
+   del destacado salía a 1055x593, casi el doble que la suya (770x390). Con
+   este ancho la foto cae en su medida natural y las tarjetas de abajo quedan
+   en dos columnas de ~365, como las de 370 de WoSJ. Solo la portada: el resto
+   del sitio conserva su ancho. */
+.layout-grid.layout-portada.tiene-sidebar {
+  grid-template-columns: minmax(0, 775px) 300px;
+  justify-content: center;
+}
+.layout-grid.layout-portada:not(.tiene-sidebar) {
+  max-width: 775px;
+  margin-inline: auto;
+}
 .slot-sidebar {
   display: none;
   position: sticky;
