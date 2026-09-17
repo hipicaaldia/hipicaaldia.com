@@ -31,6 +31,30 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-17T22:27:15-roger-yves-bost-gana-el-small-tour-del-csio5-de-gassin-saint-tropez.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-17T22:27:15-simon-delestre-gana-el-big-tour-del-csio5-de-gassin-saint-tropez-con-golden-boy.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-17T22:27:15-isabelle-ehman-gana-el-welcome-del-csi2-american-gold-cup-de-traverse-city.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-17T22:27:15-karl-cook-gana-la-american-gold-cup-speed-del-csi5-w-de-traverse-city.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-17T11:31:44-tom-mcewen-encabeza-un-cuadro-de-74-binomios-y-14-naciones-en-el-cci4-l-de.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -259,24 +283,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-08T12:03:11-natalie-jayne-conquista-el-inaugural-road-to-the-top-con-hoxynula-n.html</loc>
-    <lastmod>2026-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-08T12:03:11-shane-sweetnam-conquista-el-gran-premio-mlsj-de-toronto-con-coriaan-van.html</loc>
-    <lastmod>2026-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-08T12:03:11-nayel-nassar-se-impone-en-el-gran-premio-csi3-de-hits-hudson-valley-con-igor.html</loc>
-    <lastmod>2026-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260917-31-binomios-disputan-este-sabado-el-kubota-grand-prix-de-toronto-dotado-con-500.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -289,13 +295,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260917-natalie-jayne-conquista-el-inaugural-road-to-the-top-con-hoxynula-n.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260917-nayel-nassar-se-impone-en-el-gran-premio-csi3-de-hits-hudson-valley-con-igor.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260917-nueve-naciones-disputaran-la-bmo-nations-cup-en-spruce-meadows-masters-2026.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-08T12:03:11-espana-logra-seis-medallas-en-el-mundial-de-trec-de-viladecans.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260917-shane-sweetnam-conquista-el-gran-premio-mlsj-de-toronto-con-coriaan-van.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260917-espana-logra-seis-medallas-en-el-mundial-de-trec-de-viladecans.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3157,6 +3181,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260917-inseminacion-icsi-y-transferencia-embrionaria-las-tres-llaves-de-la-cria-fei.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260917-kevin-staut-gana-la-prueba-ranking-del-csio5-de-st-gallen-con-exquis-rb.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -3242,12 +3272,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260917-de-lanaken-a-le-lion-dangers-los-mundiales-de-jovenes-caballos-que-validan-la.html</loc>
-    <lastmod>2026-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260917-inseminacion-icsi-y-transferencia-embrionaria-las-tres-llaves-de-la-cria-fei.html</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
