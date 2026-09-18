@@ -31,6 +31,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-18T16:17:41-trapote-arias-roquet-bosch-y-escobar-formaran-el-equipo-espanol-en-la-final-de.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-18T16:17:41-charlotte-dujardin-conquista-su-tercer-titulo-nacional-britanico-de-doma-con.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-18T16:17:41-oliver-barrett-y-sandhills-briar-toman-el-mando-de-la-doma-del-cci4-l-de.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-17T22:27:15-roger-yves-bost-gana-el-small-tour-del-csio5-de-gassin-saint-tropez.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -253,13 +271,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-10T23:24:32-richard-vogel-se-impone-en-la-telus-cup-del-csio5-spruce-meadows-masters.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260918-el-csio-barcelona-2026-desvela-su-programa-definitivo-con-los-patrocinadores.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260918-el-csio-barcelona-2026-desvela-su-programa-definitivo-con-los-patrocinadores.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260918-richard-vogel-se-impone-en-la-telus-cup-del-csio5-spruce-meadows-masters.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -271,13 +289,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-10T14:50:28-arranca-el-spruce-meadows-masters-2026-con-5-millones-en-juego.html</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-08T12:03:11-kent-farrington-gana-el-gran-premio-csi3-de-michigan-con-dolores-ps.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260918-arranca-el-spruce-meadows-masters-2026-con-5-millones-en-juego.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -290,6 +302,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260918-estados-unidos-confirma-su-equipo-para-la-final-de-la-longines-league-of-nations.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260918-kent-farrington-gana-el-gran-premio-csi3-de-michigan-con-dolores-ps.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3241,6 +3259,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260918-como-se-aprueba-un-semental-la-korung-el-filtro-que-decide-que-caballos-pueden.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260918-de-lanaken-a-le-lion-dangers-los-mundiales-de-jovenes-caballos-que-validan-la.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260918-kirsty-chabert-se-lleva-el-cci4-s-de-bicton-tras-un-final-de-fotografia-con.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260918-new-york-empire-conquista-la-global-champions-league-de-cannes.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -3260,24 +3296,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260918-thibeau-spits-mantiene-el-liderato-del-ranking-longines-fei-u-25.html</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260918-como-se-aprueba-un-semental-la-korung-el-filtro-que-decide-que-caballos-pueden.html</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260918-de-lanaken-a-le-lion-dangers-los-mundiales-de-jovenes-caballos-que-validan-la.html</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260918-kirsty-chabert-se-lleva-el-cci4-s-de-bicton-tras-un-final-de-fotografia-con.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
