@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-19T22:23:37-daniel-bluman-y-gemma-w-conquistan-el-winning-round-del-csi5-w-de-traverse-city.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-19T13:57:47-zangersheide-encara-este-fin-de-semana-las-finales-del-mundial-de-caballos.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,25 +253,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-13T10:15:34-anderson-lima-diseno-recorridos-pensando-desde-los-ojos-del-caballo.html</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-13T10:15:34-dreamer-del-maset-conquista-el-oro-en-el-campeonato-de-espana-de-caballos.html</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260919-alemania-conquista-la-copa-de-naciones-bmo-de-spruce-meadows-con-un-recital.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260919-anderson-lima-diseno-recorridos-pensando-desde-los-ojos-del-caballo.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260919-arabia-saudi-domina-el-palmares-reciente-de-la-copa-de-naciones-del-morocco.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260919-dreamer-del-maset-conquista-el-oro-en-el-campeonato-de-espana-de-caballos.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
