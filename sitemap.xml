@@ -31,6 +31,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-20T10:11:03-lottie-fry-desvela-los-cambios-que-la-llevaron-al-doblete-mundial-con.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-20T10:11:03-el-concurso-completo-regresa-a-tokio-con-los-xx-juegos-asiaticos.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-19T22:23:37-daniel-bluman-y-gemma-w-conquistan-el-winning-round-del-csi5-w-de-traverse-city.html</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,12 +259,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-13T10:15:34-kar-sport-horses-patrocina-la-copa-s-m-la-reina-del-csio-barcelona-2026.html</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260920-alemania-conquista-la-copa-de-naciones-bmo-de-spruce-meadows-con-un-recital.html</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -277,7 +283,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-13T10:15:34-charlotte-dujardin-domina-el-grand-prix-del-nacional-britanico-con-brave-heart.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260920-charlotte-dujardin-domina-el-grand-prix-del-nacional-britanico-con-brave-heart.html</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -338,6 +344,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260920-el-csio-barcelona-2026-desvela-su-programa-definitivo-con-los-patrocinadores.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260920-kar-sport-horses-patrocina-la-copa-s-m-la-reina-del-csio-barcelona-2026.html</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
