@@ -42,12 +42,30 @@
   ]
 }
 </script>
-<script defer src="../js/cmp.js"></script>
 <script defer src="../js/ads.js"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
         data-cf-beacon='{"token": "f428b37828f2458dad4f0180049bbd6c"}'></script>
 </head>
 <body>
+<header class="cabecera">
+  <div class="marca">
+    <a href="../index.html" class="logo">Hípica al Día</a>
+    <p class="slogan">Noticias del deporte ecuestre</p>
+  </div>
+  <nav class="nav-principal">
+    <a href="../salto.html">Salto</a>
+    <a href="../doma.html">Doma</a>
+    <a href="../otros.html">Otros</a>
+    <a href="../cria.html">Cría</a>
+    <a href="../calendario.html">Calendario</a>
+  </nav>
+  <div class="hermana">
+    <a href="https://www.galopealdia.com" rel="noopener">Turf →</a>
+  </div>
+</header>
+<main>
+<div class="layout-grid" data-layout="con-sidebar">
+  <div class="contenido-principal">
 <!-- Banner CMP (consentimiento de cookies) — oculto por defecto, lo muestra cmp.js si no hay decisión. -->
 <div id="cmp-banner" class="cmp-banner" role="dialog"
      aria-labelledby="cmp-banner-titulo"
@@ -249,12 +267,12 @@ Cathrine Laudrup Dufour y Vamos Amigos winning the silver medal. Foto: FEI/Leanj
 </div>
 </main>
 <footer>
-  <p>&copy; 2026 Hípica al Día. Medio digital independiente.</p>
+  <p>&copy; 2026 Hípica al Día. Otro</p>
   <nav class="footer-legal" aria-label="Enlaces legales">
     <a href="../legal/aviso-legal.html">Aviso legal</a>
     <a href="../legal/politica-privacidad.html">Política de privacidad</a>
     <a href="../legal/politica-cookies.html">Política de cookies</a>
-    <button type="button" class="footer-legal__cmp" data-cmp-open>Configuración de cookies</button>
+    <button type="button" class="footer-legal__cmp" data-cmp-revocar hidden>Configuración de cookies</button>
   </nav>
 </footer>
 <script src="../js/app.js"></script>

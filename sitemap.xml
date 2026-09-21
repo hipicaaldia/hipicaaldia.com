@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-21T13:01:36-viena-escenario-clave-en-la-lucha-por-el-titulo-del-longines-global-champions.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-21T11:30:52-irlanda-firma-el-doblete-en-el-mundial-de-caballos-jovenes-de-zangersheide.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,7 +205,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-17T22:27:15-isabelle-ehman-gana-el-welcome-del-csi2-american-gold-cup-de-traverse-city.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260921-isabelle-ehman-gana-el-welcome-del-csi2-american-gold-cup-de-traverse-city.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3169,12 +3175,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260921-simon-delestre-operado-del-hombro-tras-una-grave-caida-en-cannes.html</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260921-suiza-conquista-la-copa-de-naciones-del-csio5-de-st-gallen-ante-su-publico.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -3200,6 +3200,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260921-espana-convoca-equipo-para-la-semifinal-de-la-longines-eef-series-en-kronenberg.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260921-simon-delestre-operado-del-hombro-tras-una-grave-caida-en-cannes.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3818,7 +3824,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/legal/aviso-legal.html</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -3830,13 +3836,13 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/legal/politica-cookies.html</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/legal/politica-privacidad.html</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
