@@ -3979,6 +3979,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/legal/quienes-somos.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/calendario/completo.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
