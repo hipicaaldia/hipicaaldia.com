@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/2026-09-30T11:44:02-imma-roquet-cae-del-equipo-espanol-de-copa-de-naciones-en-el-csio5-de-barcelona.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/2026-09-30T11:31:17-estados-unidos-lidera-el-ranking-de-la-longines-league-of-nations-que-se-decide.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,7 +241,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/2026-09-21T08:15:04-espana-cierra-con-el-bronce-por-equipos-el-mundial-de-equitacion-de-trabajo-de.html</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260930-espana-cierra-con-el-bronce-por-equipos-el-mundial-de-equitacion-de-trabajo-de.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3187,12 +3193,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260930-fallece-bob-ellis-el-disenador-de-recorridos-de-los-juegos-olimpicos-de-londres.html</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260930-francia-conquista-la-copa-de-naciones-del-csio5-de-la-baule.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -3272,6 +3272,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260930-daniel-coyle-gana-la-recon-metal-cup-1-55m-de-spruce-meadows-con-farrel.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260930-fallece-bob-ellis-el-disenador-de-recorridos-de-los-juegos-olimpicos-de-londres.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
