@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261001-boekelo-arranca-la-final-de-la-fei-eventing-nations-cup-con-francia-como-lider</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260930-imma-roquet-cae-del-equipo-espanol-de-copa-de-naciones-en-el-csio5-de-barcelona</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,12 +241,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260920-tom-mcewen-doblete-provisional-en-blenheim-cci4-l-tras-un-cross-country</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260920-espana-cierra-con-el-bronce-por-equipos-el-mundial-de-equitacion-de-trabajo-de</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,6 +248,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260920-espana-firma-la-plata-en-la-copa-de-naciones-de-raid-de-barroca-d-alva-con</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260920-tom-mcewen-doblete-provisional-en-blenheim-cci4-l-tras-un-cross-country</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3205,12 +3211,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260612-juan-manuel-gallego-firma-podio-en-spruce-meadows-con-indiana-de-san-isidro</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260612-la-primera-prueba-grande-del-csio5-la-baule-para-cian-oconnor</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3272,6 +3272,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260612-fallece-bob-ellis-el-disenador-de-recorridos-de-los-juegos-olimpicos-de-londres</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260612-juan-manuel-gallego-firma-podio-en-spruce-meadows-con-indiana-de-san-isidro</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
