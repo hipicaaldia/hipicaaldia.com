@@ -1021,12 +1021,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260828-el-csio-barcelona-2026-confirma-su-programa-de-pruebas-con-patrocinadores</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260827-como-se-endurece-un-gran-premio-sin-elevar-la-altura-de-los-obstaculos</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -1207,12 +1201,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260818-samuel-parot-gana-el-gran-premio-del-csi3-de-ocala-con-tiffany-de-olid</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260818-240-000-espectadores-en-la-primera-semana-del-mundial-de-aquisgran-2026</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -1292,12 +1280,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260813-alemania-conquista-su-decimotercer-oro-mundial-por-equipos-en-aachen</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260812-scott-brash-y-harry-charles-figuran-en-la-lista-de-participantes-del-csi4-de</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1418,12 +1400,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260806-el-gran-premio-de-gijon-el-mejor-dotado-de-los-csi4-europeos-con-200-000-euros</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260806-ya-a-la-venta-las-entradas-para-el-csio-barcelona-2026</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3151,12 +3127,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260612-chacco-blue-el-semental-que-reescribio-el-ranking-wbfsh-de-salto</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260612-cian-o-connor-gana-el-prix-ffe-generali-del-csio5-de-la-baule-con-genghis-khan</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3187,6 +3157,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260612-fallece-bob-ellis-el-disenador-de-recorridos-de-los-juegos-olimpicos-de-londres</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260612-francia-conquista-la-copa-de-naciones-del-csio5-de-la-baule</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3206,6 +3182,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260612-italia-conquista-la-copa-de-naciones-longines-eef-del-csio3-de-deauville</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260612-juan-manuel-gallego-firma-podio-en-spruce-meadows-con-indiana-de-san-isidro</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3253,6 +3235,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260612-daniel-coyle-gana-la-recon-metal-cup-1-55m-de-spruce-meadows-con-farrel</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260612-mark-todd-y-charisma-el-binomio-que-firmo-el-doblete-olimpico-de-concurso</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260612-bramham-pasa-el-primer-trote-con-tres-caballos-retenidos-y-readmitidos-en-el</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3265,19 +3259,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260612-daniel-coyle-gana-la-recon-metal-cup-1-55m-de-spruce-meadows-con-farrel</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260612-fallece-bob-ellis-el-disenador-de-recorridos-de-los-juegos-olimpicos-de-londres</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260612-juan-manuel-gallego-firma-podio-en-spruce-meadows-con-indiana-de-san-isidro</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260612-chacco-blue-el-semental-que-reescribio-el-ranking-wbfsh-de-salto</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3289,43 +3271,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260612-mark-todd-y-charisma-el-binomio-que-firmo-el-doblete-olimpico-de-concurso</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260612-tom-jackson-lidera-el-cci4-l-de-bramham-tras-la-doma-y-afronta-este-sabado-el</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260611-suiza-conquista-la-copa-de-naciones-del-csio5-de-st-gallen-ante-su-publico</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260611-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-prueba-artistica</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260611-bramham-horse-trials-estrena-recorrido-invertido-en-el-cross-del-cci4-l</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260611-espana-convoca-equipo-para-la-semifinal-de-la-longines-eef-series-en-kronenberg</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260611-estados-unidos-despliega-su-potencial-en-la-copa-de-naciones-de-hagen</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3343,13 +3295,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260610-german-camargo-gana-el-wellington-national-grand-prix-con-ophelia</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260611-suiza-conquista-la-copa-de-naciones-del-csio5-de-st-gallen-ante-su-publico</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260610-katie-laurie-gana-el-gran-premio-csi5-de-160-m-en-spruce-meadows</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260611-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-prueba-artistica</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260611-estados-unidos-despliega-su-potencial-en-la-copa-de-naciones-de-hagen</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260611-bramham-horse-trials-estrena-recorrido-invertido-en-el-cross-del-cci4-l</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3361,13 +3325,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260610-german-camargo-gana-el-wellington-national-grand-prix-con-ophelia</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260610-hof-kasselmann-y-schockemohle-celebran-su-quinta-subasta-hibrida-el-12-de-junio</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260610-isabell-werth-conquista-su-19o-oro-en-el-campeonato-aleman-con-wendy-de-fontaine</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260610-katie-laurie-gana-el-gran-premio-csi5-de-160-m-en-spruce-meadows</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3385,6 +3355,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260610-isabell-werth-conquista-su-19o-oro-en-el-campeonato-aleman-con-wendy-de-fontaine</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260609-jose-bono-firma-un-segundo-puesto-en-el-gran-premio-del-csi2-de-st-tropez</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3392,6 +3368,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260609-la-baule-reune-a-la-elite-mundial-del-salto-a-dos-meses-del-mundial-de-aachen</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260609-simon-delestre-evoluciona-favorablemente-tras-su-caida-en-el-global-champions</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3415,25 +3397,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260609-simon-delestre-evoluciona-favorablemente-tras-su-caida-en-el-global-champions</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260608-christian-kukuk-conquista-el-campeonato-de-alemania-de-saltos-con-akarad-tivoli</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260608-marcus-ehning-se-impone-en-el-gran-premio-del-csio5-de-st-gallen</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260608-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-kur-gran-premio</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3445,13 +3409,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260608-isabell-werth-conquista-el-campeonato-de-alemania-de-freestyle-con-viva-gold-old</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260608-marcus-ehning-se-impone-en-el-gran-premio-del-csio5-de-st-gallen</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260608-isabell-werth-culmina-el-pleno-en-el-campeonato-de-alemania-con-viva-gold-old</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260608-borja-carrascosa-revalida-el-titulo-de-campeon-de-espana-en-la-kur-gran-premio</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260608-isabell-werth-conquista-el-campeonato-de-alemania-de-freestyle-con-viva-gold-old</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3475,13 +3451,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260605-inseminacion-icsi-y-transferencia-embrionaria-las-tres-llaves-de-la-cria-fei</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-kevin-staut-gana-la-prueba-ranking-del-csio5-de-st-gallen-con-exquis-rb</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260605-kevin-staut-gana-la-prueba-ranking-del-csio5-de-st-gallen-con-exquis-rb</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-new-york-empire-conquista-la-global-champions-league-de-cannes</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3500,6 +3476,18 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260605-spruce-meadows-abre-el-continental-con-cuatro-dias-de-salto-y-categorias-hasta</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-suecia-anuncia-una-preseleccion-de-siete-jinetes-y-doce-caballos-para-el-mundial</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-thibeau-spits-mantiene-el-liderato-del-ranking-longines-fei-u-25</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3535,6 +3523,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-sharon-white-lidera-el-cci4-l-de-bromont-con-claus-63-tras-la-primera-jornada-de</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260605-como-se-aprueba-un-semental-la-korung-el-filtro-que-decide-que-caballos-pueden</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3547,31 +3541,13 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260605-inseminacion-icsi-y-transferencia-embrionaria-las-tres-llaves-de-la-cria-fei</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260605-kirsty-chabert-se-lleva-el-cci4-s-de-bicton-tras-un-final-de-fotografia-con</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260605-new-york-empire-conquista-la-global-champions-league-de-cannes</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260605-sharon-white-lidera-el-cci4-l-de-bromont-con-claus-63-tras-la-primera-jornada-de</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260605-suecia-anuncia-una-preseleccion-de-siete-jinetes-y-doce-caballos-para-el-mundial</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260605-thibeau-spits-mantiene-el-liderato-del-ranking-longines-fei-u-25</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3596,6 +3572,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260601-mariano-martinez-bastida-se-impone-en-el-gran-premio-del-csn5-moura-tours</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260531-bolesworth-estrena-en-2026-una-formula-con-dos-fines-de-semana-y-debuta-el</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3631,13 +3613,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260531-kristina-harrison-antell-y-finley-ganan-el-freestyle-del-cdi3-de-sherwood-con</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260531-spruce-meadows-arranca-la-temporada-el-3-de-junio-con-el-national-presentado-por</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260531-bolesworth-estrena-en-2026-una-formula-con-dos-fines-de-semana-y-debuta-el</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260531-kristina-harrison-antell-y-finley-ganan-el-freestyle-del-cdi3-de-sherwood-con</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3649,13 +3631,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260531-spruce-meadows-arranca-la-temporada-el-3-de-junio-con-el-national-presentado-por</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260530-ana-garcia-torres-abre-el-csn5-moura-tours-de-valencia-con-victoria-en-145-m</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260530-ana-garcia-torres-abre-el-csn5-moura-tours-de-valencia-con-victoria-en-145-m</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260530-conor-swail-encadena-seis-victorias-en-nueve-dias-en-el-circuito-canadiense</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3673,19 +3655,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260530-gran-bretana-lidera-en-casa-la-copa-de-naciones-de-bicton-tras-la-doma</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260530-kristina-harrison-antell-conquista-el-gran-premio-del-cdi3-de-sherwood-con</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260530-conor-swail-encadena-seis-victorias-en-nueve-dias-en-el-circuito-canadiense</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260530-gran-bretana-lidera-en-casa-la-copa-de-naciones-de-bicton-tras-la-doma</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3715,13 +3691,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260529-la-fei-pide-notificar-todos-los-brotes-de-enfermedades-infecciosas-equinas</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260529-mckayla-langmeier-firma-su-segundo-triunfo-consecutivo-en-el-devon-horse-show</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260529-mckayla-langmeier-firma-su-segundo-triunfo-consecutivo-en-el-devon-horse-show</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260529-la-fei-pide-notificar-todos-los-brotes-de-enfermedades-infecciosas-equinas</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3752,6 +3728,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260528-la-rfhe-suspende-definitivamente-el-csn5-de-madrid-aplazado-por-rinoneumonitis</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260528-mclain-ward-denuncia-comentarios-atroces-de-adultos-sobre-el-exito-de-su-hija-de</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3793,12 +3775,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260528-mclain-ward-denuncia-comentarios-atroces-de-adultos-sobre-el-exito-de-su-hija-de</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260527-alvaro-gonzalez-de-zarate-copa-el-podio-en-el-gran-premio-solumak-del-csn3-de</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3811,25 +3787,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260527-gran-bretana-confirma-su-equipo-para-la-copa-de-naciones-del-ccio4-s-de-bicton</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260527-wellington-international-amplia-sus-instalaciones-con-un-quinto-establo-y-gradas</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260526-csio5-de-roma-alberto-marquez-galobardes-y-armando-trapote-defienden-a-espana</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260527-gran-bretana-confirma-su-equipo-para-la-copa-de-naciones-del-ccio4-s-de-bicton</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260526-angel-cerdido-gastesi-copa-el-podio-del-gran-premio-de-valdemoro-con-dos-ceros</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260526-csio5-de-roma-alberto-marquez-galobardes-y-armando-trapote-defienden-a-espana</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3931,6 +3907,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20260521-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-cria-de-jovenes-caballos</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20260521-espana-compite-con-tres-binomios-en-la-tercera-etapa-del-fei-dressage-nations</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3938,12 +3920,6 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20260521-la-federacion-estadounidense-designa-ocho-binomios-para-optar-al-mundial-de-doma</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260521-la-fei-endurece-los-requisitos-de-acceso-al-mundial-de-cria-de-jovenes-caballos</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
