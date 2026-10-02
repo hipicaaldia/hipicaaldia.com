@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261002-riccardo-pisani-y-chacco-s-lawito-ps-ganan-la-prueba-de-145-m-del-csi3-de-gorla</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261002-nicolas-sers-gana-con-komet-des-k-z-los-145-m-de-barcelona-gonzalez-de-zarate</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,13 +229,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260921-daniel-bluman-gana-la-winning-round-de-150-m-del-csi5-w-de-traverse-city-por-003</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260921-beat-mandli-conquista-el-gran-premio-del-american-gold-cup-csi5-w-de-traverse</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20260921-beat-mandli-conquista-el-gran-premio-del-american-gold-cup-csi5-w-de-traverse</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20260921-daniel-bluman-gana-la-winning-round-de-150-m-del-csi5-w-de-traverse-city-por-003</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
