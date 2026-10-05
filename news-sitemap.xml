@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261005-daniel-bluman-y-gemma-w-se-adjudican-el-classic-de-150-m-del-csi3-de-amenia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T14:36:49+02:00</news:publication_date>
+      <news:title>Daniel Bluman y Gemma W se adjudican el Classic de 1,50 m del CSI3* de Amenia</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261005-anthony-bourquard-gana-el-gran-premio-copa-del-mundo-de-150-m-del-csi4-w-de</loc>
     <news:news>
       <news:publication>
