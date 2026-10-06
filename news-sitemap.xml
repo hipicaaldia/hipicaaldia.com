@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261006-gerardo-menendez-ganador-en-gijon-en-2017-se-suma-al-equipo-de-yeguada-finca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T14:50:26+02:00</news:publication_date>
+      <news:title>Gerardo Menéndez, ganador en Gijón en 2017, se suma al equipo de Yeguada Finca Maeza</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261006-vogel-repite-como-numero-uno-mundial-y-shane-sweetnam-escala-al-tercer-puesto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T14:50:26+02:00</news:publication_date>
+      <news:title>Vogel repite como número uno mundial y Shane Sweetnam escala al tercer puesto</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261006-espana-llega-a-la-copa-de-naciones-de-rabat-con-aresu-y-elorduy-en-el-equipo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T14:50:25+02:00</news:publication_date>
+      <news:title>España llega a la Copa de Naciones de Rabat con Aresu y Elorduy en el equipo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261005-daniel-bluman-y-gemma-w-se-adjudican-el-classic-de-150-m-del-csi3-de-amenia</loc>
     <news:news>
       <news:publication>
@@ -98,28 +131,6 @@
       </news:publication>
       <news:publication_date>2026-10-04T22:01:28+02:00</news:publication_date>
       <news:title>Luca Coata y Holly del Rilate ganan el Gran Premio de 1,50 m de la Coppa degli Assi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261004-faleh-alajami-da-a-catar-el-oro-de-la-final-individual-a-de-salto-en-los-juegos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T14:08:56+02:00</news:publication_date>
-      <news:title>Faleh Alajami da a Catar el oro de la final Individual A de salto en los Juegos Asiáticos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261004-alemania-adelanta-a-gran-bretana-por-09-puntos-tras-el-cross-de-boekelo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T14:08:55+02:00</news:publication_date>
-      <news:title>Alemania adelanta a Gran Bretaña por 0,9 puntos tras el cross de Boekelo</news:title>
     </news:news>
   </url>
 </urlset>
