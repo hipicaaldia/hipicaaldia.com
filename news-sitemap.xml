@@ -144,37 +144,4 @@
       <news:title>Alemania adelanta a Gran Bretaña por 0,9 puntos tras el cross de Boekelo</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261003-elia-matteo-simonetti-y-conchita-ps-ganan-la-prueba-de-145-m-de-la-coppa-degli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T22:04:09+02:00</news:publication_date>
-      <news:title>Elia Matteo Simonetti y Conchita PS ganan la prueba de 1,45 m de la Coppa degli Assi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261003-steve-guerdat-gana-con-easy-star-de-talma-la-prueba-de-150-m-del-csi3-de-gorla</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T21:42:59+02:00</news:publication_date>
-      <news:title>Steve Guerdat gana con Easy Star de Talma la prueba de 1,50 m del CSI3* de Gorla Minore</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261003-marcus-ehning-y-stargold-ganan-la-queens-cup-de-150-m-del-csio5-de-barcelona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T19:13:10+02:00</news:publication_date>
-      <news:title>Marcus Ehning y Stargold ganan la Queen’s Cup de 1,50 m del CSIO5* de Barcelona</news:title>
-    </news:news>
-  </url>
 </urlset>
