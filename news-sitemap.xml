@@ -56,37 +56,4 @@
       <news:title>Daniel Bluman y Gemma W se adjudican el Classic de 1,50 m del CSI3* de Amenia</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261005-anthony-bourquard-gana-el-gran-premio-copa-del-mundo-de-150-m-del-csi4-w-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:32:52+02:00</news:publication_date>
-      <news:title>Anthony Bourquard gana el Gran Premio Copa del Mundo de 1,50 m del CSI4*-W de Tétouan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261005-gran-bretana-remonta-a-alemania-en-el-salto-y-gana-la-final-de-la-nations-cup-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:32:52+02:00</news:publication_date>
-      <news:title>Gran Bretaña remonta a Alemania en el salto y gana la final de la Nations Cup en Boekelo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261005-julia-krajewski-gana-boekelo-por-tercera-vez-ahora-con-ero-de-cantraie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:32:52+02:00</news:publication_date>
-      <news:title>Julia Krajewski gana Boekelo por tercera vez, ahora con Ero de Cantraie</news:title>
-    </news:news>
-  </url>
 </urlset>
