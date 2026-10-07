@@ -499,6 +499,13 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .ranking-tabla--completa td { padding: .45rem .6rem; }
 .ranking-tabla--completa .ranking-prog { font-size: .8rem; width: 3rem; }
 .ranking-nf { color: var(--c-secundario); font-size: .8rem; letter-spacing: .05em; }
+/* Página por concurso (2026-10-07): lectura simple, columna de 760 px. */
+.pagina-concurso { max-width: 760px; margin: 0 auto; }
+.pagina-concurso h2 { margin-top: 1.6rem; font-size: 1.15rem; }
+.concurso-ganadores, .concurso-noticias { padding-left: 1.1rem; line-height: 1.5; }
+.concurso-ganadores li, .concurso-noticias li { margin: .35rem 0; }
+/* Enlace al final de la noticia hacia la página del concurso. */
+.enlace-concurso { margin: 1.4rem 0 .4rem; font-weight: 600; }
 .ranking-puntos {
   text-align: right;
   font-variant-numeric: tabular-nums;
