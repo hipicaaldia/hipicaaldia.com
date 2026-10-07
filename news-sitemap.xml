@@ -122,26 +122,4 @@
       <news:title>Julia Krajewski gana Boekelo por tercera vez, ahora con Ero de Cantraie</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261004-alain-jufer-y-chaccoo-de-l-escant-mm-ganan-el-gp-de-150-m-del-csi3-de-gorla</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:01:29+02:00</news:publication_date>
-      <news:title>Alain Jufer y Chaccoo de l&amp;#39;Escant MM ganan el GP de 1,50 m del CSI3* de Gorla Minore</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261004-luca-coata-y-holly-del-rilate-ganan-el-gran-premio-de-150-m-de-la-coppa-degli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:01:28+02:00</news:publication_date>
-      <news:title>Luca Coata y Holly del Rilate ganan el Gran Premio de 1,50 m de la Coppa degli Assi</news:title>
-    </news:news>
-  </url>
 </urlset>
