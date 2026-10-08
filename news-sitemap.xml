@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261008-said-ahlmann-y-tops-alexander-cara-a-cara-en-roma-con-el-super-grand-prix-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T15:29:56+02:00</news:publication_date>
+      <news:title>Saïd, Ahlmann y Tops-Alexander, cara a cara en Roma con el Super Grand Prix en juego</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261008-guerdat-fuchs-ehning-y-von-eckermann-abren-en-oslo-la-copa-del-mundo-de-saltos</loc>
     <news:news>
       <news:publication>
@@ -43,39 +54,6 @@
       </news:publication>
       <news:publication_date>2026-10-06T20:40:43+02:00</news:publication_date>
       <news:title>Thibeau Spits suma su octavo mes seguido al frente del ranking FEI Sub-25 de salto</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261006-gerardo-menendez-ganador-en-gijon-en-2017-se-suma-al-equipo-de-yeguada-finca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:26+02:00</news:publication_date>
-      <news:title>Gerardo Menéndez, ganador en Gijón en 2017, se suma al equipo de Yeguada Finca Maeza</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261006-vogel-repite-como-numero-uno-mundial-y-shane-sweetnam-escala-al-tercer-puesto</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:26+02:00</news:publication_date>
-      <news:title>Vogel repite como número uno mundial y Shane Sweetnam escala al tercer puesto</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261006-espana-llega-a-la-copa-de-naciones-de-rabat-con-aresu-y-elorduy-en-el-equipo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:25+02:00</news:publication_date>
-      <news:title>España llega a la Copa de Naciones de Rabat con Aresu y Elorduy en el equipo</news:title>
     </news:news>
   </url>
 </urlset>
