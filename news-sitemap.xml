@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261008-guerdat-fuchs-ehning-y-von-eckermann-abren-en-oslo-la-copa-del-mundo-de-saltos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T09:56:11+02:00</news:publication_date>
+      <news:title>Guerdat, Fuchs, Ehning y Von Eckermann abren en Oslo la Copa del Mundo de Saltos</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261007-madrid-in-motion-llega-a-roma-sexto-en-la-gcl-a-63-puntos-de-riesenbeck</loc>
     <news:news>
       <news:publication>
