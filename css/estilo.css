@@ -506,6 +506,14 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .concurso-ganadores li, .concurso-noticias li { margin: .35rem 0; }
 /* Enlace al final de la noticia hacia la página del concurso. */
 .enlace-concurso { margin: 1.4rem 0 .4rem; font-weight: 600; }
+/* Newsletter en el pie (2026-10-07; apagada hasta F2). */
+.newsletter { max-width: 760px; margin: 2rem auto 0; padding: 1.2rem 1rem; border-top: 3px solid var(--c-primario); }
+.newsletter h2 { font-size: 1.1rem; margin: 0 0 .6rem; }
+.newsletter-form { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+.newsletter-form input[type=email] { flex: 1 1 220px; padding: .55rem .7rem; font-size: 1rem; }
+.newsletter-form button { padding: .55rem 1rem; font-weight: 700; cursor: pointer; }
+.newsletter-priv { flex-basis: 100%; font-size: .85rem; }
+.newsletter-msg { flex-basis: 100%; margin: 0; font-size: .9rem; }
 .ranking-puntos {
   text-align: right;
   font-variant-numeric: tabular-nums;
