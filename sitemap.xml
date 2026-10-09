@@ -37,6 +37,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/agria-oslo-horse-show-2026</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/brussels-stephex-masters-2026</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -169,6 +175,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261009-koen-vereecke-y-merryweather-vt-leeuwerikenhof-ganan-el-150-m-del-csi5-de-oslo</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261008-said-ahlmann-y-tops-alexander-cara-a-cara-en-roma-con-el-super-grand-prix-en</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -176,7 +188,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261008-guerdat-fuchs-ehning-y-von-eckermann-abren-en-oslo-la-copa-del-mundo-de-saltos</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -242,7 +254,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261005-la-semana-del-salto-el-lgct-de-roma-y-otros-16-concursos-entre-el-lunes-y-el</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

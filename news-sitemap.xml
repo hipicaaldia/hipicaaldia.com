@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261009-koen-vereecke-y-merryweather-vt-leeuwerikenhof-ganan-el-150-m-del-csi5-de-oslo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T18:17:00+02:00</news:publication_date>
+      <news:title>Koen Vereecke y Merryweather Vt Leeuwerikenhof ganan el 1,50 m del CSI5* de Oslo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261008-said-ahlmann-y-tops-alexander-cara-a-cara-en-roma-con-el-super-grand-prix-en</loc>
     <news:news>
       <news:publication>
