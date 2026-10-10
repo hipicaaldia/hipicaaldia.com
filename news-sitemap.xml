@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-kristen-vanderveen-se-lleva-la-160-m-de-velocidad-del-lgct-de-roma-por-casi-tres</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:36:28+02:00</news:publication_date>
+      <news:title>Kristen Vanderveen se lleva la 1,60 m de velocidad del LGCT de Roma por casi tres segundos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-lars-kersten-y-cascalino-7-se-llevan-el-jopack-trophy-de-oliva-nova-por-un</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:36:28+02:00</news:publication_date>
+      <news:title>Lars Kersten y Cascalino 7 se llevan el Jopack Trophy de Oliva Nova por un segundo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-alsharbatly-y-diriyah-los-mas-rapidos-en-el-grand-prix-de-155-m-del-csio4-w-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:36:27+02:00</news:publication_date>
+      <news:title>Alsharbatly y Diriyah, los más rápidos en el Grand Prix de 1,55 m del CSIO4*-W de Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261010-simon-delestre-y-crazy-daisy-13-ganan-la-prueba-de-150-m-del-csi5-de-roma</loc>
     <news:news>
       <news:publication>
@@ -43,6 +76,17 @@
       </news:publication>
       <news:publication_date>2026-10-10T09:34:55+02:00</news:publication_date>
       <news:title>Doblete de Abdullah Alsharbatly en Rabat, con el Gran Premio del CSIO4* para Diriyah</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-gemma-stevens-salta-del-puesto-25-al-8-del-ranking-mundial-de-completo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:36:27+02:00</news:publication_date>
+      <news:title>Gemma Stevens salta del puesto 25 al 8 del ranking mundial de completo</news:title>
     </news:news>
   </url>
   <url>
