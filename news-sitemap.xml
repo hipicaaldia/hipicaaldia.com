@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-simon-delestre-y-crazy-daisy-13-ganan-la-prueba-de-150-m-del-csi5-de-roma</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T18:45:21+02:00</news:publication_date>
+      <news:title>Simon Delestre y Crazy Daisy 13 ganan la prueba de 1,50 m del CSI5* de Roma</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261010-new-york-empire-gana-la-gcl-de-roma-y-riesenbeck-se-acerca-al-titulo</loc>
     <news:news>
       <news:publication>

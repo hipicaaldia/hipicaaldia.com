@@ -103,6 +103,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/longines-global-champions-tour-of-rome-2026</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/longines-global-champions-tour-of-valkenswaard-2026</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,6 +181,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-simon-delestre-y-crazy-daisy-13-ganan-la-prueba-de-150-m-del-csi5-de-roma</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261010-new-york-empire-gana-la-gcl-de-roma-y-riesenbeck-se-acerca-al-titulo</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,7 +212,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261008-said-ahlmann-y-tops-alexander-cara-a-cara-en-roma-con-el-super-grand-prix-en</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -212,7 +224,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261007-madrid-in-motion-llega-a-roma-a-dos-podios-de-igualar-su-mejor-temporada-en-la</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -266,7 +278,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261005-la-semana-del-salto-el-lgct-de-roma-y-otros-16-concursos-entre-el-lunes-y-el</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -349,12 +361,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261003-iglesias-dv-ganador-en-finca-maeza-deja-a-olivier-robert-y-se-marcha-con-ludger</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261003-al-duhami-y-untouchable-32-dan-a-arabia-saudi-su-quinto-oro-por-equipos-en-los</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,6 +368,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261003-gonzalez-de-zarate-se-queda-a-17-centesimas-del-trofeo-la-vanguardia-en</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261003-iglesias-dv-ganador-en-finca-maeza-deja-a-olivier-robert-y-se-marcha-con-ludger</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
