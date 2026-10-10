@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-new-york-empire-gana-la-gcl-de-roma-y-riesenbeck-se-acerca-al-titulo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T16:02:47+02:00</news:publication_date>
+      <news:title>New York Empire gana la GCL de Roma y Riesenbeck se acerca al título</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261010-philippaerts-y-miro-ganan-la-prueba-de-160-m-del-longines-global-champions-tour</loc>
     <news:news>
       <news:publication>
@@ -32,17 +43,6 @@
       </news:publication>
       <news:publication_date>2026-10-09T18:17:00+02:00</news:publication_date>
       <news:title>Koen Vereecke y Merryweather Vt Leeuwerikenhof ganan el 1,50 m del CSI5* de Oslo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261008-said-ahlmann-y-tops-alexander-cara-a-cara-en-roma-con-el-super-grand-prix-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T15:29:56+02:00</news:publication_date>
-      <news:title>Saïd, Ahlmann y Tops-Alexander, cara a cara en Roma con el Super Grand Prix en juego</news:title>
     </news:news>
   </url>
 </urlset>
