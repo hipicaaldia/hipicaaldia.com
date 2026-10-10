@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-philippaerts-y-miro-ganan-la-prueba-de-160-m-del-longines-global-champions-tour</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T14:10:42+02:00</news:publication_date>
+      <news:title>Philippaerts y Miro ganan la prueba de 1,60 m del Longines Global Champions Tour of Rome</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261010-doblete-de-abdullah-alsharbatly-en-rabat-con-el-gran-premio-del-csio4-para</loc>
     <news:news>
       <news:publication>
