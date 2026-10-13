@@ -35,6 +35,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261011-205-segundos-dan-a-chedraui-el-gran-premio-de-160-m-del-csi5-de-coapexpan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T09:06:21+02:00</news:publication_date>
+      <news:title>2,05 segundos dan a Chedraui el Gran Premio de 1,60 m del CSI5* de Coapexpan</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261011-abdel-said-se-impone-en-roma-y-estira-su-liderato-en-el-global-champions-tour</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T09:06:21+02:00</news:publication_date>
+      <news:title>Abdel Said se impone en Roma y estira su liderato en el Global Champions Tour</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261011-yuri-mansur-y-my-lady-lavista-ganan-la-prueba-de-150-m-del-csio4-w-de-rabat</loc>
     <news:news>
       <news:publication>
