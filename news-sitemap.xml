@@ -78,15 +78,4 @@
       <news:title>Abdel Said se impone en Roma y estira su liderato en el Global Champions Tour</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261011-yuri-mansur-y-my-lady-lavista-ganan-la-prueba-de-150-m-del-csio4-w-de-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T21:33:45+02:00</news:publication_date>
-      <news:title>Yuri Mansur y My Lady Lavista ganan la prueba de 1,50 m del CSIO4*-W de Rabat</news:title>
-    </news:news>
-  </url>
 </urlset>
