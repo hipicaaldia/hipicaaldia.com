@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261015-la-major-league-show-jumping-arranca-en-tryon-con-vogel-y-farrington-al-frente</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
+      <news:title>La Major League Show Jumping arranca en Tryon con Vogel y Farrington al frente</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261015-049-segundos-dan-a-richard-vogel-la-velocidad-de-145-m-del-csi5-de-tryon</loc>
     <news:news>
       <news:publication>
@@ -32,17 +43,6 @@
       </news:publication>
       <news:publication_date>2026-10-13T20:36:22+02:00</news:publication_date>
       <news:title>35 centésimas dan a Duarte Seabra el Gran Premio de 1,50 m del CSI3* de Oliva Nova</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261013-mark-bluman-y-landon-de-nyze-conquistan-el-highlands-cup-grand-prix-csi5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T11:32:15+02:00</news:publication_date>
-      <news:title>Mark Bluman y Landon de Nyze conquistan el Highlands Cup Grand Prix CSI5*</news:title>
     </news:news>
   </url>
   <url>
