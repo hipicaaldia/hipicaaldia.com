@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261016-el-morocco-royal-tour-estrena-su-primer-csi5-en-el-jadida-con-triunfo-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T09:57:38+02:00</news:publication_date>
+      <news:title>El Morocco Royal Tour estrena su primer CSI5* en El Jadida con triunfo de Alsharbatly</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261015-la-major-league-show-jumping-arranca-en-tryon-con-vogel-y-farrington-al-frente</loc>
     <news:news>
       <news:publication>
@@ -32,17 +43,6 @@
       </news:publication>
       <news:publication_date>2026-10-15T08:20:42+02:00</news:publication_date>
       <news:title>El Jadida estrena esta semana el primer CSI5*-W del Morocco Royal Tour</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261013-spruce-meadows-amplia-a-cuatro-fines-de-semana-su-mercado-internacional-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T09:42:41+02:00</news:publication_date>
-      <news:title>Spruce Meadows amplía a cuatro fines de semana su Mercado Internacional de Navidad</news:title>
     </news:news>
   </url>
 </urlset>
