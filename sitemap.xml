@@ -187,6 +187,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261016-el-gran-premio-de-doma-tendra-que-estirar-al-trote-asi-cambian-las-reprises-fei</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261015-la-major-league-show-jumping-arranca-en-tryon-con-vogel-y-farrington-al-frente</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -355,12 +361,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261005-daniel-bluman-y-gemma-w-se-adjudican-el-classic-de-150-m-del-csi3-de-amenia</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261005-anthony-bourquard-gana-el-gran-premio-copa-del-mundo-de-150-m-del-csi4-w-de</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -368,6 +368,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261005-cinco-ceros-y-dos-oros-ramzy-al-duhami-manda-en-el-salto-de-los-juegos-asiaticos</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261005-daniel-bluman-y-gemma-w-se-adjudican-el-classic-de-150-m-del-csi3-de-amenia</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
