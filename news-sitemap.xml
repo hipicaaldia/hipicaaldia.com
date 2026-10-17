@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-sanne-thijssen-y-farah-z-ganan-la-prueba-de-150-m-del-csi3-indoor-friesland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:49:33+02:00</news:publication_date>
+      <news:title>Sanne Thijssen y Farah Z ganan la prueba de 1,50 m del CSI3* Indoor Friesland</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-anquetin-y-perle-fine-van-t-gillekenshof-ganan-el-150-m-del-csi3-de-gorla-minore</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:49:33+02:00</news:publication_date>
+      <news:title>Anquetin y Perle-Fine van&amp;#39;t Gillekenshof ganan el 1,50 m del CSI3* de Gorla Minore</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261017-57-milesimas-deciden-la-welcome-de-140-m-del-pennsylvania-national-horse-show</loc>
     <news:news>
       <news:publication>
