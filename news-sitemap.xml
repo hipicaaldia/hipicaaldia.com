@@ -67,15 +67,4 @@
       <news:title>0,49 segundos dan a Richard Vogel la velocidad de 1,45 m del CSI5* de Tryon</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261013-el-jadida-estrena-esta-semana-el-primer-csi5-w-del-morocco-royal-tour</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T08:20:42+02:00</news:publication_date>
-      <news:title>El Jadida estrena esta semana el primer CSI5*-W del Morocco Royal Tour</news:title>
-    </news:news>
-  </url>
 </urlset>
