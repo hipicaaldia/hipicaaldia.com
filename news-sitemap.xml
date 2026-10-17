@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-tom-schewe-gana-con-lester-el-prix-mamp-sorec-su-primer-triunfo-cinco-estrellas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:03:13+02:00</news:publication_date>
+      <news:title>Tom Schewe gana con Lester el Prix MAMP / SOREC, su primer triunfo cinco estrellas</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261017-sanne-thijssen-y-farah-z-ganan-la-prueba-de-150-m-del-csi3-indoor-friesland</loc>
     <news:news>
       <news:publication>
