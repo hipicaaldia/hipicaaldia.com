@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-santiago-diaz-ortega-firma-un-doblete-en-el-csi5-w-de-el-jadida</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T08:02:20+02:00</news:publication_date>
+      <news:title>Santiago Diaz Ortega firma un doblete en el CSI5*-W de El Jadida</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261016-emanuele-gaudiano-y-vasco-118-ganan-la-prueba-de-145-m-del-csi3-de-gorla-minore</loc>
     <news:news>
       <news:publication>
