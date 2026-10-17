@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-max-wachman-y-grs-lady-amaro-ganan-por-088-s-el-denia-speed-challenge-del-csi3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
+      <news:title>Max Wachman y GRS Lady Amaro ganan por 0,88 s el Dénia Speed Challenge del CSI3* en Oliva Nova</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261017-santiago-diaz-ortega-firma-un-doblete-en-el-csi5-w-de-el-jadida</loc>
     <news:news>
       <news:publication>
@@ -10,6 +21,17 @@
       </news:publication>
       <news:publication_date>2026-10-17T08:02:20+02:00</news:publication_date>
       <news:title>Santiago Diaz Ortega firma un doblete en el CSI5*-W de El Jadida</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-el-cdi-w-lyon-abre-su-cuadro-con-el-duelo-werth-verboomen-y-tres-jinetes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
+      <news:title>El CDI-W Lyon abre su cuadro con el duelo Werth-Verboomen y tres jinetes españoles</news:title>
     </news:news>
   </url>
   <url>
@@ -43,28 +65,6 @@
       </news:publication>
       <news:publication_date>2026-10-16T20:39:31+02:00</news:publication_date>
       <news:title>El Gran Premio de doma tendrá que estirar al trote: así cambian las reprises FEI de 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261015-la-major-league-show-jumping-arranca-en-tryon-con-vogel-y-farrington-al-frente</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
-      <news:title>La Major League Show Jumping arranca en Tryon con Vogel y Farrington al frente</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261015-049-segundos-dan-a-richard-vogel-la-velocidad-de-145-m-del-csi5-de-tryon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T10:56:36+02:00</news:publication_date>
-      <news:title>0,49 segundos dan a Richard Vogel la velocidad de 1,45 m del CSI5* de Tryon</news:title>
     </news:news>
   </url>
 </urlset>
