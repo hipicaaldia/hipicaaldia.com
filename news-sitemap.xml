@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-57-milesimas-deciden-la-welcome-de-140-m-del-pennsylvania-national-horse-show</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:34:59+02:00</news:publication_date>
+      <news:title>57 milésimas deciden la Welcome de 1,40 m del Pennsylvania National Horse Show</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261017-catorce-centesimas-dan-a-sanne-thijssen-la-velocidad-de-150-m-del-csi3-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:34:59+02:00</news:publication_date>
+      <news:title>Catorce centésimas dan a Sanne Thijssen la velocidad de 1,50 m del CSI3* de Leeuwarden</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261017-max-wachman-y-grs-lady-amaro-ganan-por-088-s-el-denia-speed-challenge-del-csi3</loc>
     <news:news>
       <news:publication>
