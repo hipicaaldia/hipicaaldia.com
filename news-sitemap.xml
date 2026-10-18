@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261018-jerome-guery-estrena-el-palmares-cinco-estrellas-del-morocco-royal-tour-en-el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T23:46:25+02:00</news:publication_date>
+      <news:title>Jérôme Guéry estrena el palmarés cinco estrellas del Morocco Royal Tour en El Jadida</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261018-dihp-roadrunners-se-lleva-en-tryon-la-team-competition-de-la-mlsj-con-ballard-al</loc>
     <news:news>
       <news:publication>
@@ -98,28 +109,6 @@
       </news:publication>
       <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
       <news:title>El CDI-W Lyon abre su cuadro con el duelo Werth-Verboomen y tres jinetes españoles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261016-emanuele-gaudiano-y-vasco-118-ganan-la-prueba-de-145-m-del-csi3-de-gorla-minore</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T21:47:19+02:00</news:publication_date>
-      <news:title>Emanuele Gaudiano y Vasco 118 ganan la prueba de 1,45 m del CSI3* de Gorla Minore</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261016-el-gran-premio-de-doma-tendra-que-estirar-al-trote-asi-cambian-las-reprises-fei</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:39:31+02:00</news:publication_date>
-      <news:title>El Gran Premio de doma tendrá que estirar al trote: así cambian las reprises FEI de 2027</news:title>
     </news:news>
   </url>
 </urlset>
