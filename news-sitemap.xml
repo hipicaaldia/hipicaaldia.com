@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261018-dihp-roadrunners-se-lleva-en-tryon-la-team-competition-de-la-mlsj-con-ballard-al</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T11:33:04+02:00</news:publication_date>
+      <news:title>DIHP Roadrunners se lleva en Tryon la Team Competition de la MLSJ con Ballard al mando</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261017-tom-schewe-gana-con-lester-el-prix-mamp-sorec-su-primer-triunfo-cinco-estrellas</loc>
     <news:news>
       <news:publication>
@@ -98,17 +109,6 @@
       </news:publication>
       <news:publication_date>2026-10-16T21:47:19+02:00</news:publication_date>
       <news:title>Emanuele Gaudiano y Vasco 118 ganan la prueba de 1,45 m del CSI3* de Gorla Minore</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261016-el-morocco-royal-tour-estrena-su-primer-csi5-en-el-jadida-con-triunfo-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:57:38+02:00</news:publication_date>
-      <news:title>El Morocco Royal Tour estrena su primer CSI5* en El Jadida con triunfo de Alsharbatly</news:title>
     </news:news>
   </url>
   <url>
