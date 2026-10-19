@@ -181,6 +181,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261019-mclain-ward-celebra-sus-51-anos-ganando-el-gran-premio-del-csi5-de-tryon</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261019-old-boy-sj-gana-a-los-ocho-anos-el-gran-premio-150-m-del-csi3-de-oliva-nova</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261019-un-90000-en-la-kur-abre-la-liga-de-europa-occidental-laudrup-dufour-gana-doble</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261018-jerome-guery-estrena-el-palmares-cinco-estrellas-del-morocco-royal-tour-en-el</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -349,12 +367,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261010-simon-delestre-y-crazy-daisy-13-ganan-la-prueba-de-150-m-del-csi5-de-roma</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261010-doblete-de-abdullah-alsharbatly-en-rabat-con-el-gran-premio-del-csio4-para</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -368,6 +380,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261010-philippaerts-y-miro-ganan-la-prueba-de-160-m-del-longines-global-champions-tour</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261010-simon-delestre-y-crazy-daisy-13-ganan-la-prueba-de-150-m-del-csi5-de-roma</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

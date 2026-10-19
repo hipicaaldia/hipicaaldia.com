@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261019-mclain-ward-celebra-sus-51-anos-ganando-el-gran-premio-del-csi5-de-tryon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:37:12+02:00</news:publication_date>
+      <news:title>McLain Ward celebra sus 51 años ganando el Gran Premio del CSI5* de Tryon</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261019-old-boy-sj-gana-a-los-ocho-anos-el-gran-premio-150-m-del-csi3-de-oliva-nova</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:37:12+02:00</news:publication_date>
+      <news:title>Old Boy SJ gana a los ocho años el Gran Premio 1,50 m del CSI3* de Oliva Nova</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261019-un-90000-en-la-kur-abre-la-liga-de-europa-occidental-laudrup-dufour-gana-doble</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:37:12+02:00</news:publication_date>
+      <news:title>Un 90,000 % en la Kür abre la Liga de Europa Occidental: Laudrup-Dufour gana doble en Herning</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261018-jerome-guery-estrena-el-palmares-cinco-estrellas-del-morocco-royal-tour-en-el</loc>
     <news:news>
       <news:publication>
