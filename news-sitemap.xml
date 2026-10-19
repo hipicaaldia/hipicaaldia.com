@@ -35,6 +35,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261019-ottawa-des-desig-lleva-la-cria-espanola-al-podio-del-completo-de-los-juegos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:41:58+02:00</news:publication_date>
+      <news:title>Ottawa des Desig lleva la cría española al podio del completo de los Juegos Asiáticos</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261018-jerome-guery-estrena-el-palmares-cinco-estrellas-del-morocco-royal-tour-en-el</loc>
     <news:news>
       <news:publication>
@@ -87,50 +98,6 @@
       </news:publication>
       <news:publication_date>2026-10-17T21:49:33+02:00</news:publication_date>
       <news:title>Anquetin y Perle-Fine van&amp;#39;t Gillekenshof ganan el 1,50 m del CSI3* de Gorla Minore</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261017-57-milesimas-deciden-la-welcome-de-140-m-del-pennsylvania-national-horse-show</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>57 milésimas deciden la Welcome de 1,40 m del Pennsylvania National Horse Show</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261017-catorce-centesimas-dan-a-sanne-thijssen-la-velocidad-de-150-m-del-csi3-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>Catorce centésimas dan a Sanne Thijssen la velocidad de 1,50 m del CSI3* de Leeuwarden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261017-max-wachman-y-grs-lady-amaro-ganan-por-088-s-el-denia-speed-challenge-del-csi3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
-      <news:title>Max Wachman y GRS Lady Amaro ganan por 0,88 s el Dénia Speed Challenge del CSI3* en Oliva Nova</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261017-el-cdi-w-lyon-abre-su-cuadro-con-el-duelo-werth-verboomen-y-tres-jinetes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
-      <news:title>El CDI-W Lyon abre su cuadro con el duelo Werth-Verboomen y tres jinetes españoles</news:title>
     </news:news>
   </url>
 </urlset>
