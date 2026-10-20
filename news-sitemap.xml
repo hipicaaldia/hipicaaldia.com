@@ -67,37 +67,4 @@
       <news:title>DIHP Roadrunners se lleva en Tryon la Team Competition de la MLSJ con Ballard al mando</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261017-tom-schewe-gana-con-lester-el-prix-mamp-sorec-su-primer-triunfo-cinco-estrellas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T23:03:13+02:00</news:publication_date>
-      <news:title>Tom Schewe gana con Lester el Prix MAMP / SOREC, su primer triunfo cinco estrellas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261017-sanne-thijssen-y-farah-z-ganan-la-prueba-de-150-m-del-csi3-indoor-friesland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T21:49:33+02:00</news:publication_date>
-      <news:title>Sanne Thijssen y Farah Z ganan la prueba de 1,50 m del CSI3* Indoor Friesland</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261017-anquetin-y-perle-fine-van-t-gillekenshof-ganan-el-150-m-del-csi3-de-gorla-minore</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T21:49:33+02:00</news:publication_date>
-      <news:title>Anquetin y Perle-Fine van&amp;#39;t Gillekenshof ganan el 1,50 m del CSI3* de Gorla Minore</news:title>
-    </news:news>
-  </url>
 </urlset>
