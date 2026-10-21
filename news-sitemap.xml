@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261021-max-wachman-suspendido-un-mes-y-multado-con-1-000-francos-por-dos-avisos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:33:17+02:00</news:publication_date>
+      <news:title>Max Wachman, suspendido un mes y multado con 1.000 francos por dos avisos registrados</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261020-fringan-de-vesquerie-deja-la-monta-de-julien-epaillard-y-se-marcha-a-estados</loc>
     <news:news>
       <news:publication>
@@ -307,17 +318,6 @@
       </news:publication>
       <news:publication_date>2026-10-20T09:40:30+02:00</news:publication_date>
       <news:title>Laudrup-Dufour y Mount St John Freestyle llegan al 90% y suman su tercera victoria en Herning</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-moritz-treffinger-en-senior-tienes-que-ser-mucho-mas-autocritico</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:30+02:00</news:publication_date>
-      <news:title>Moritz Treffinger: «En sénior tienes que ser mucho más autocrítico»</news:title>
     </news:news>
   </url>
   <url>
