@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261021-nayel-nassar-y-la-creme-del-lgct-confirman-presencia-en-el-estreno-de-las</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T12:15:14+02:00</news:publication_date>
+      <news:title>Nayel Nassar y la crème del LGCT confirman presencia en el estreno de las Pirámides</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261021-sophie-hinners-afronta-el-estreno-del-lgct-en-las-piramides-como-numero-12-del</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T12:15:13+02:00</news:publication_date>
+      <news:title>Sophie Hinners afronta el estreno del LGCT en las Pirámides como número 12 del mundo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261021-max-wachman-suspendido-un-mes-y-multado-con-1-000-francos-por-dos-avisos</loc>
     <news:news>
       <news:publication>
@@ -277,17 +299,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-roger-yves-bost-conquista-con-flynn-d-emm-el-longines-grand-prix-del-csi3-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
-      <news:title>Roger Yves Bost conquista con Flynn d&amp;#39;Emm el Longines Grand Prix del CSI3* de Pekín</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261018-ida-kirstine-bjorn-y-sparaday-ganan-el-grand-prix-cdi3-del-worldcup-herning-2026</loc>
     <news:news>
       <news:publication>
@@ -307,17 +318,6 @@
       </news:publication>
       <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
       <news:title>Cathrine Laudrup-Dufour abre la Liga de Europa Occidental con un 90% en la Kür</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-laudrup-dufour-y-mount-st-john-freestyle-llegan-al-90-y-suman-su-tercera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:30+02:00</news:publication_date>
-      <news:title>Laudrup-Dufour y Mount St John Freestyle llegan al 90% y suman su tercera victoria en Herning</news:title>
     </news:news>
   </url>
   <url>
