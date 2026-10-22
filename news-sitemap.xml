@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261022-bettendorf-y-qwando-van-de-rispen-ganan-la-gcl-first-competition-de-160-m-en-el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:05:20+02:00</news:publication_date>
+      <news:title>Bettendorf y Qwando van de Rispen ganan la GCL - First Competition de 1,60 m en El Cairo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-abierta-la-votacion-de-los-fei-awards-2026-17-nominados-en-cuatro-categorias</loc>
     <news:news>
       <news:publication>

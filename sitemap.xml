@@ -85,6 +85,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/longines-global-champions-tour-of-cairo-2026</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/longines-global-champions-tour-of-london-2026</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,6 +187,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261022-bettendorf-y-qwando-van-de-rispen-ganan-la-gcl-first-competition-de-160-m-en-el</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-abierta-la-votacion-de-los-fei-awards-2026-17-nominados-en-cuatro-categorias</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,7 +212,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261021-sophie-hinners-afronta-el-estreno-del-lgct-en-las-piramides-como-numero-12-del</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -373,12 +385,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-old-boy-sj-el-mas-rapido-de-los-tres-doble-cero-en-el-gold-tour-de-oliva-nova</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261018-dihp-roadrunners-se-lleva-en-tryon-la-team-competition-de-la-mlsj-con-ballard-al</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -399,6 +405,12 @@
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261018-jerome-guery-estrena-el-palmares-cinco-estrellas-del-morocco-royal-tour-en-el</loc>
     <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261018-old-boy-sj-el-mas-rapido-de-los-tres-doble-cero-en-el-gold-tour-de-oliva-nova</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
