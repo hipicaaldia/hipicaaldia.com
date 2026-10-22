@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261022-abierta-la-votacion-de-los-fei-awards-2026-17-nominados-en-cuatro-categorias</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:48:24+02:00</news:publication_date>
+      <news:title>Abierta la votación de los FEI Awards 2026: 17 nominados en cuatro categorías</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261022-el-longines-global-champions-tour-llega-a-las-piramides-de-giza-con-abdel-said</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:48:23+02:00</news:publication_date>
+      <news:title>El Longines Global Champions Tour llega a las pirámides de Giza con Abdel Saïd líder</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261021-nayel-nassar-y-la-creme-del-lgct-confirman-presencia-en-el-estreno-de-las</loc>
     <news:news>
       <news:publication>
@@ -32,303 +54,6 @@
       </news:publication>
       <news:publication_date>2026-10-21T09:33:17+02:00</news:publication_date>
       <news:title>Max Wachman, suspendido un mes y multado con 1.000 francos por dos avisos registrados</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261020-fringan-de-vesquerie-deja-la-monta-de-julien-epaillard-y-se-marcha-a-estados</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:37+02:00</news:publication_date>
-      <news:title>Fringan de Vesquerie deja la monta de Julien Epaillard y se marcha a Estados Unidos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261020-devon-kane-y-vamos-repiten-en-terra-nova-con-su-mejor-nota-75505</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:37+02:00</news:publication_date>
-      <news:title>Devon Kane y Vamos repiten en Terra Nova con su mejor nota: 75,505 %</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261020-hans-gunter-winkler-y-halla-la-historia-del-unico-saltador-con-cinco-oros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:36+02:00</news:publication_date>
-      <news:title>Hans Günter Winkler y Halla: la historia del único saltador con cinco oros olímpicos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-el-csio3-de-vejer-de-la-frontera-cierra-el-calendario-fei-de-copas-de-naciones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:36+02:00</news:publication_date>
-      <news:title>El CSIO3* de Vejer de la Frontera cierra el calendario FEI de Copas de Naciones del Sunshine Tour</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-el-washington-international-arranca-hoy-su-68-a-edicion-con-el-unico-qualifier</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:36+02:00</news:publication_date>
-      <news:title>El Washington International arranca hoy su 68.ª edición con el único qualifier estadounidense de la Copa del Mundo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-lara-de-liedekerke-meier-y-tara-van-het-leliehof-repiten-corona-en-el-mondial-du</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:35+02:00</news:publication_date>
-      <news:title>Lara de Liedekerke-Meier y Tara van het Leliehof repiten corona en el Mondial du Lion</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-la-semana-del-salto-lgct-estrena-las-piramides-de-giza-y-washington</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:34+02:00</news:publication_date>
-      <news:title>La semana del salto: LGCT estrena las Pirámides de Giza y Washington</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-devon-kane-y-vamos-repiten-en-myakka-city-con-un-75505-en-el-kur-de-la-copa-del</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:34+02:00</news:publication_date>
-      <news:title>Devon Kane y Vamos repiten en Myakka City con un 75,505 % en el Kür de la Copa del Mundo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-alemania-y-francia-se-reparten-los-oros-juveniles-del-completo-en-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:36+02:00</news:publication_date>
-      <news:title>Alemania y Francia se reparten los oros juveniles del completo en 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-tara-van-het-leliehof-revalida-el-titulo-mundial-en-le-lion-d-angers-con-lara-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:36+02:00</news:publication_date>
-      <news:title>Tara van het Leliehof revalida el título mundial en Le Lion d&amp;#39;Angers con Lara de Liedekerke-Meier</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-la-fei-fija-las-medidas-de-la-fusta-acolchada-que-el-completo-exigira-desde-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:35+02:00</news:publication_date>
-      <news:title>La FEI fija las medidas de la fusta acolchada que el completo exigirá desde 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-una-barra-en-el-obstaculo-10-da-el-cci3-l-de-maryland-a-monica-spencer-y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:35+02:00</news:publication_date>
-      <news:title>Una barra en el obstáculo 10 da el CCI3*-L de Maryland a Monica Spencer y Valkyrie</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-pau-cierra-la-temporada-europea-del-cci5-del-22-al-25-de-octubre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:34+02:00</news:publication_date>
-      <news:title>Pau cierra la temporada europea del CCI5* del 22 al 25 de octubre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-tara-van-het-leliehof-suma-en-le-lion-d-angers-su-segundo-titulo-mundial-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:34+02:00</news:publication_date>
-      <news:title>Tara van het Leliehof suma en Le Lion d&amp;#39;Angers su segundo título mundial de caballos jóvenes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261019-demi-vermeulen-medallista-paralimpica-en-rio-2016-lleva-mas-de-una-semana</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:35+02:00</news:publication_date>
-      <news:title>Demi Vermeulen, medallista paralímpica en Río 2016, lleva más de una semana ingresada en Leiden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-casi-cuatro-segundos-de-ventaja-jordan-coyle-y-cordiamo-se-llevan-el-grand-prix</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:34+02:00</news:publication_date>
-      <news:title>Casi cuatro segundos de ventaja: Jordan Coyle y Cordiamo se llevan el Grand Prix de Penn National</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-nico-lupino-gana-con-el-chacco-ps-el-gran-premio-de-145-m-del-csi-2-de-san</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:34+02:00</news:publication_date>
-      <news:title>Nico Lupino gana con El Chacco PS el Gran Premio de 1,45 m del CSI 2* de San Giovanni</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-2929-segundos-dan-a-michael-greeve-el-sltn-grand-prix-de-155-m-del-indoor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:33+02:00</news:publication_date>
-      <news:title>29,29 segundos dan a Michael Greeve el SLTN Grand Prix de 1,55 m del Indoor Friesland</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-jerome-guery-y-kiliman-sitte-conquistan-el-gran-premio-copa-del-mundo-del-csi5-w</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:32+02:00</news:publication_date>
-      <news:title>Jérôme Guery y Kiliman Sitte conquistan el Gran Premio Copa del Mundo del CSI5*-W de El Jadida</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-mclain-ward-se-regala-su-primer-gran-premio-mlsj-el-dia-que-cumplia-51-anos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:32+02:00</news:publication_date>
-      <news:title>McLain Ward se regala su primer Gran Premio MLSJ el día que cumplía 51 años</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-mclain-ward-cumple-51-anos-y-se-lleva-el-mlsj-grand-prix-5-de-tryon-con-high</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:32+02:00</news:publication_date>
-      <news:title>McLain Ward cumple 51 años y se lleva el MLSJ Grand Prix 5* de Tryon con High Star Hero</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-niall-talbot-y-fts-elliot-ganan-por-037-s-el-145-m-del-csi3-de-oliva-nova</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
-      <news:title>Niall Talbot y FTS Elliot ganan por 0,37 s el 1,45 m del CSI3* de Oliva Nova</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-nueve-binomios-sin-faltas-en-el-longines-grand-prix-de-150-m-de-pekin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
-      <news:title>Nueve binomios sin faltas en el Longines Grand Prix de 1,50 m de Pekín</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-old-boy-sj-el-mas-rapido-de-los-tres-doble-cero-en-el-gold-tour-de-oliva-nova</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
-      <news:title>Old Boy SJ, el más rápido de los tres doble cero en el Gold Tour de Oliva Nova</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-ida-kirstine-bjorn-y-sparaday-ganan-el-grand-prix-cdi3-del-worldcup-herning-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
-      <news:title>Ida Kirstine Bjørn y Sparaday ganan el Grand Prix CDI3* del Worldcup Herning 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-cathrine-laudrup-dufour-abre-la-liga-de-europa-occidental-con-un-90-en-la-kur</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
-      <news:title>Cathrine Laudrup-Dufour abre la Liga de Europa Occidental con un 90% en la Kür</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261018-caroline-pamukcu-se-lleva-los-dos-titulos-del-young-event-horse-en-fair-hill</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:40:31+02:00</news:publication_date>
-      <news:title>Caroline Pamukcu se lleva los dos títulos del Young Event Horse en Fair Hill</news:title>
     </news:news>
   </url>
 </urlset>
