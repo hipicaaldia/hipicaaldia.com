@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261023-daniel-coyle-y-farrel-ganan-la-prueba-de-155-m-del-csi5-de-washington</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T10:07:15+02:00</news:publication_date>
+      <news:title>Daniel Coyle y Farrel ganan la prueba de 1,55 m del CSI5* de Washington</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261023-tom-n-schewe-apunta-a-la-final-de-la-copa-del-mundo-de-2027-tras-el-morocco</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T10:07:15+02:00</news:publication_date>
+      <news:title>Tom N. Schewe apunta a la Final de la Copa del Mundo de 2027 tras el Morocco Royal Tour</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261023-riesenbeck-international-gana-bajo-las-piramides-y-se-proclama-campeon-de-la-gcl</loc>
     <news:news>
       <news:publication>
@@ -208,17 +230,6 @@
       </news:publication>
       <news:publication_date>2026-10-21T12:15:13+02:00</news:publication_date>
       <news:title>Sophie Hinners afronta el estreno del LGCT en las Pirámides como número 12 del mundo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261021-max-wachman-suspendido-un-mes-y-multado-con-1-000-francos-por-dos-avisos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:33:17+02:00</news:publication_date>
-      <news:title>Max Wachman, suspendido un mes y multado con 1.000 francos por dos avisos registrados</news:title>
     </news:news>
   </url>
   <url>
