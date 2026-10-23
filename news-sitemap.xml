@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261023-christian-kukuk-y-checker-47-estrenan-giza-con-el-unico-cero-cero-de-la-gcl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T11:31:45+02:00</news:publication_date>
+      <news:title>Christian Kukuk y Checker 47 estrenan Giza con el único cero cero de la GCL Individual CSI5*</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261023-daniel-coyle-y-farrel-ganan-la-prueba-de-155-m-del-csi5-de-washington</loc>
     <news:news>
       <news:publication>
