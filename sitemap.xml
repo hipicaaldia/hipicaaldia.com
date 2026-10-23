@@ -43,6 +43,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/andalucia-october-tour-week-1-vejer-de-la-frontera-2026</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/brussels-stephex-masters-2026</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,6 +194,18 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/concursos/washington-int-horse-show-upper-marlboro-md-2026</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261023-bettendorf-gana-en-el-cairo-por-siete-centesimas-a-los-pies-de-las-piramides-de</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261023-harry-charles-da-por-cerrada-su-temporada-2026-tras-una-caida-en-oliva</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -374,7 +392,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261019-el-csio3-de-vejer-de-la-frontera-cierra-el-calendario-fei-de-copas-de-naciones</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

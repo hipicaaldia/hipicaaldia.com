@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261023-bettendorf-gana-en-el-cairo-por-siete-centesimas-a-los-pies-de-las-piramides-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T23:38:34+02:00</news:publication_date>
+      <news:title>Bettendorf gana en El Cairo por siete centésimas a los pies de las pirámides de Giza</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261023-harry-charles-da-por-cerrada-su-temporada-2026-tras-una-caida-en-oliva</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T23:38:33+02:00</news:publication_date>
+      <news:title>Harry Charles da por cerrada su temporada 2026 tras una caída en Oliva</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261023-christian-kukuk-y-checker-47-estrenan-giza-con-el-unico-cero-cero-de-la-gcl</loc>
     <news:news>
       <news:publication>
@@ -230,28 +252,6 @@
       </news:publication>
       <news:publication_date>2026-10-23T08:29:34+02:00</news:publication_date>
       <news:title>«Stargold» vuelve a ganar a lo grande en Barcelona tras 17 meses de ausencia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261021-nayel-nassar-y-la-creme-del-lgct-confirman-presencia-en-el-estreno-de-las</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:15:14+02:00</news:publication_date>
-      <news:title>Nayel Nassar y la crème del LGCT confirman presencia en el estreno de las Pirámides</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261021-sophie-hinners-afronta-el-estreno-del-lgct-en-las-piramides-como-numero-12-del</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:15:13+02:00</news:publication_date>
-      <news:title>Sophie Hinners afronta el estreno del LGCT en las Pirámides como número 12 del mundo</news:title>
     </news:news>
   </url>
   <url>
