@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261024-mclain-ward-gana-con-first-lady-la-prueba-de-150-m-del-csi5-de-washington</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T09:03:07+02:00</news:publication_date>
+      <news:title>McLain Ward gana con First Lady la prueba de 1,50 m del CSI5* de Washington</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261023-bettendorf-gana-en-el-cairo-por-siete-centesimas-a-los-pies-de-las-piramides-de</loc>
     <news:news>
       <news:publication>
