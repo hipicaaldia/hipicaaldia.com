@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261024-maximilian-weishaupt-gana-con-cosmo-von-imhoff-la-prueba-de-145-m-del-lgct-de-el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T13:19:03+02:00</news:publication_date>
+      <news:title>Maximilian Weishaupt gana con Cosmo von Imhoff la prueba de 1,45 m del LGCT de El Cairo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261024-mclain-ward-gana-con-first-lady-la-prueba-de-150-m-del-csi5-de-washington</loc>
     <news:news>
       <news:publication>
@@ -164,28 +175,6 @@
       </news:publication>
       <news:publication_date>2026-10-22T20:05:20+02:00</news:publication_date>
       <news:title>Bettendorf y Qwando van de Rispen ganan la GCL - First Competition de 1,60 m en El Cairo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261022-abierta-la-votacion-de-los-fei-awards-2026-17-nominados-en-cuatro-categorias</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:48:24+02:00</news:publication_date>
-      <news:title>Abierta la votación de los FEI Awards 2026: 17 nominados en cuatro categorías</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261022-el-longines-global-champions-tour-llega-a-las-piramides-de-giza-con-abdel-said</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:48:23+02:00</news:publication_date>
-      <news:title>El Longines Global Champions Tour llega a las pirámides de Giza con Abdel Saïd líder</news:title>
     </news:news>
   </url>
   <url>
