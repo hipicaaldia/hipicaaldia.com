@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261025-conor-swail-gana-el-gran-premio-csi5-de-otomi-tras-un-desempate-de-solo-tres</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T20:21:43+01:00</news:publication_date>
+      <news:title>Conor Swail gana el Gran Premio CSI5* de Otomí tras un desempate de solo tres</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261025-gregory-wathelet-gana-el-grand-prix-155-m-del-csi4-de-lieja-con-bond-jamesbond</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T20:21:42+01:00</news:publication_date>
+      <news:title>Gregory Wathelet gana el Grand Prix 1,55 m del CSI4* de Lieja con Bond Jamesbond de Hay</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261025-lillie-keenan-y-kick-on-ganan-el-gran-premio-de-160-m-de-la-copa-del-mundo-en</loc>
     <news:news>
       <news:publication>
@@ -244,39 +266,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261023-christian-kukuk-y-checker-47-estrenan-giza-con-el-unico-cero-cero-de-la-gcl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:31:45+02:00</news:publication_date>
-      <news:title>Christian Kukuk y Checker 47 estrenan Giza con el único cero cero de la GCL Individual CSI5*</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261023-daniel-coyle-y-farrel-ganan-la-prueba-de-155-m-del-csi5-de-washington</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T10:07:15+02:00</news:publication_date>
-      <news:title>Daniel Coyle y Farrel ganan la prueba de 1,55 m del CSI5* de Washington</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261023-tom-n-schewe-apunta-a-la-final-de-la-copa-del-mundo-de-2027-tras-el-morocco</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T10:07:15+02:00</news:publication_date>
-      <news:title>Tom N. Schewe apunta a la Final de la Copa del Mundo de 2027 tras el Morocco Royal Tour</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261023-abierta-la-votacion-del-publico-para-los-fei-awards-2026-con-17-nominados</loc>
     <news:news>
       <news:publication>
@@ -285,17 +274,6 @@
       </news:publication>
       <news:publication_date>2026-10-25T08:26:26+01:00</news:publication_date>
       <news:title>Abierta la votación del público para los FEI Awards 2026, con 17 nominados</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261023-yasmin-ingham-lidera-la-doma-del-cci5-de-pau-con-289-en-el-debut-5-de-gypsie-du</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:32:52+02:00</news:publication_date>
-      <news:title>Yasmin Ingham lidera la doma del CCI5* de Pau con 28,9 en el debut 5* de Gypsie du Loir</news:title>
     </news:news>
   </url>
 </urlset>

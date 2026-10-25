@@ -199,6 +199,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261025-conor-swail-gana-el-gran-premio-csi5-de-otomi-tras-un-desempate-de-solo-tres</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261025-gregory-wathelet-gana-el-grand-prix-155-m-del-csi4-de-lieja-con-bond-jamesbond</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261025-lillie-keenan-y-kick-on-ganan-el-gran-premio-de-160-m-de-la-copa-del-mundo-en</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -379,12 +391,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261022-san-miguel-de-allende-acoge-el-mexico-fall-tour-con-dos-semanas-de-csi5-y-csi3</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-abierta-la-votacion-de-los-fei-awards-2026-17-nominados-en-cuatro-categorias</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -416,6 +422,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-la-rolex-ijrc-top-10-final-cumple-25-ediciones-y-vuelve-a-ginebra-en-diciembre</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261022-san-miguel-de-allende-acoge-el-mexico-fall-tour-con-dos-semanas-de-csi5-y-csi3</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
