@@ -205,6 +205,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261025-julio-mendoza-loor-gana-el-gran-premio-del-cdi-w-de-mexico-con-un-73891</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261024-alvaro-gonzalez-de-zarate-y-casa-diva-ps-los-unicos-por-debajo-de-70-segundos-en</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -379,12 +385,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261022-la-rolex-ijrc-top-10-final-cumple-25-ediciones-y-vuelve-a-ginebra-en-diciembre</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-abierta-la-votacion-de-los-fei-awards-2026-17-nominados-en-cuatro-categorias</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -410,6 +410,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-garmendia-gana-la-de-145-m-del-csi4-de-montenmedio-y-suma-otro-podio-con-nina</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261022-la-rolex-ijrc-top-10-final-cumple-25-ediciones-y-vuelve-a-ginebra-en-diciembre</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
