@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261027-richard-vogel-informa-de-una-infeccion-en-united-touch-s-que-sigue-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:33:26+01:00</news:publication_date>
+      <news:title>Richard Vogel informa de una infección en «United Touch S», que sigue en tratamiento</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261027-reiner-klimke-y-ahlerich-el-abogado-de-munster-que-firmo-los-seis-oros-olimpicos</loc>
     <news:news>
       <news:publication>
@@ -32,17 +43,6 @@
       </news:publication>
       <news:publication_date>2026-10-25T20:21:42+01:00</news:publication_date>
       <news:title>Gregory Wathelet gana el Grand Prix 1,55 m del CSI4* de Lieja con Bond Jamesbond de Hay</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261025-julio-mendoza-loor-gana-el-gran-premio-del-cdi-w-de-mexico-con-un-73891</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:38:45+01:00</news:publication_date>
-      <news:title>Julio Mendoza Loor gana el Gran Premio del CDI-W de México con un 73,891%</news:title>
     </news:news>
   </url>
 </urlset>
