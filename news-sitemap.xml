@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261027-reiner-klimke-y-ahlerich-el-abogado-de-munster-que-firmo-los-seis-oros-olimpicos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T08:06:10+01:00</news:publication_date>
+      <news:title>Reiner Klimke y Ahlerich: el abogado de Münster que firmó los seis oros olímpicos de la doma alemana</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261025-conor-swail-gana-el-gran-premio-csi5-de-otomi-tras-un-desempate-de-solo-tres</loc>
     <news:news>
       <news:publication>
@@ -131,28 +142,6 @@
       </news:publication>
       <news:publication_date>2026-10-25T08:26:26+01:00</news:publication_date>
       <news:title>Casa Diva PS baja de los 70 segundos y gana el Trofeo YETI de 1,50 m en Vejer</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261024-maximilian-weishaupt-gana-con-cosmo-von-imhoff-la-prueba-de-145-m-del-lgct-de-el</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T13:19:03+02:00</news:publication_date>
-      <news:title>Maximilian Weishaupt gana con Cosmo von Imhoff la prueba de 1,45 m del LGCT de El Cairo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261024-mclain-ward-gana-con-first-lady-la-prueba-de-150-m-del-csi5-de-washington</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T09:03:07+02:00</news:publication_date>
-      <news:title>McLain Ward gana con First Lady la prueba de 1,50 m del CSI5* de Washington</news:title>
     </news:news>
   </url>
   <url>
