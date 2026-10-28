@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261028-steve-guerdat-llega-a-lyon-con-el-oro-mundial-y-una-espina-clavada-desde-2008</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:33:54+01:00</news:publication_date>
+      <news:title>Steve Guerdat llega a Lyon con el oro mundial y una espina clavada desde 2008</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261028-lyon-abre-la-copa-del-mundo-con-guerdat-vogel-y-tres-franceses-a-defender-el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:33:54+01:00</news:publication_date>
+      <news:title>Lyon abre la Copa del Mundo con Guerdat, Vogel y tres franceses a defender el podio</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261028-vogel-deusser-y-guerdat-encabezan-el-csi5-w-de-lyon-con-sesenta-jinetes-de-19</loc>
     <news:news>
       <news:publication>

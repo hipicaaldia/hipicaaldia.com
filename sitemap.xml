@@ -199,6 +199,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261028-steve-guerdat-llega-a-lyon-con-el-oro-mundial-y-una-espina-clavada-desde-2008</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261028-lyon-abre-la-copa-del-mundo-con-guerdat-vogel-y-tres-franceses-a-defender-el</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261028-vogel-deusser-y-guerdat-encabezan-el-csi5-w-de-lyon-con-sesenta-jinetes-de-19</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -367,12 +379,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261024-niklaus-rutschi-y-amar-des-brimbelles-z-ganan-la-145-m-del-csi3-riviera-resort</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261024-casa-diva-ps-baja-de-los-70-segundos-y-gana-el-trofeo-yeti-de-150-m-en-vejer</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -404,6 +410,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261024-molina-y-kansas-santa-rosa-ganan-el-playdoit-prize-del-csi5-de-otomi-por-medio</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261024-niklaus-rutschi-y-amar-des-brimbelles-z-ganan-la-145-m-del-csi3-riviera-resort</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
