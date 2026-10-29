@@ -24,3 +24,7 @@
 /noticias/20260922-widger-mcevoy-y-brouwer-se-coronan-campeones-del-mundo-de-caballos-jovenes-en /noticias/20260921-irlanda-firma-el-doblete-en-el-mundial-de-caballos-jovenes-de-zangersheide 301
 /noticias/20260915-el-csio-barcelona-2026-anuncia-su-programa-definitivo-y-los-patrocinadores-de.html /noticias/20260910-el-csio-barcelona-2026-desvela-su-programa-definitivo-con-los-patrocinadores 301
 /noticias/20260915-el-csio-barcelona-2026-anuncia-su-programa-definitivo-y-los-patrocinadores-de /noticias/20260910-el-csio-barcelona-2026-desvela-su-programa-definitivo-con-los-patrocinadores 301
+
+# backstage: noticias eliminadas desde el panel (estas líneas se quitan solas al recuperarlas)
+/noticias/20261028-lyon-abre-la-copa-del-mundo-con-guerdat-vogel-y-tres-franceses-a-defender-el.html /salto 301
+/noticias/20261028-lyon-abre-la-copa-del-mundo-con-guerdat-vogel-y-tres-franceses-a-defender-el /salto 301
