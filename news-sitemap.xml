@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261029-verboomen-y-zonik-plus-ganan-en-lyon-con-un-79065-y-dejan-a-werth-segunda</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T13:42:34+01:00</news:publication_date>
+      <news:title>Verboomen y Zonik Plus ganan en Lyon con un 79,065% y dejan a Werth segunda</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261028-steve-guerdat-llega-a-lyon-con-el-oro-mundial-y-una-espina-clavada-desde-2008</loc>
     <news:news>
       <news:publication>
