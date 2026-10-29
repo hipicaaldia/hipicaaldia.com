@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261029-abdel-said-campeon-del-lgct-2026-encabeza-el-cartel-de-la-etapa-final-en-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:50:39+01:00</news:publication_date>
+      <news:title>Abdel Saïd, campeón del LGCT 2026, encabeza el cartel de la etapa final en Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261029-verboomen-y-zonik-plus-ganan-en-lyon-con-un-79065-y-dejan-a-werth-segunda</loc>
     <news:news>
       <news:publication>
