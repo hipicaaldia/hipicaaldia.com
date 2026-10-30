@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261030-tres-britanicos-se-reparten-las-pruebas-grandes-en-el-arranque-del-csi3-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:03:14+01:00</news:publication_date>
+      <news:title>Tres británicos se reparten las pruebas grandes en el arranque del CSI3* de Valencia</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261029-abdel-said-campeon-del-lgct-2026-encabeza-el-cartel-de-la-etapa-final-en-rabat</loc>
     <news:news>
       <news:publication>
