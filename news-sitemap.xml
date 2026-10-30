@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261030-simon-delestre-y-golden-boy-dk-ganan-la-gcl-first-competition-de-160-m-en-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T20:19:17+01:00</news:publication_date>
+      <news:title>Simon Delestre y Golden Boy DK ganan la GCL - First Competition de 1,60 m en Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261030-ocho-puntos-separan-a-madrid-in-motion-de-la-quinta-plaza-antes-de-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T20:19:16+01:00</news:publication_date>
+      <news:title>Ocho puntos separan a Madrid in Motion de la quinta plaza antes de Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261030-tres-britanicos-se-reparten-las-pruebas-grandes-en-el-arranque-del-csi3-de</loc>
     <news:news>
       <news:publication>
@@ -32,28 +54,6 @@
       </news:publication>
       <news:publication_date>2026-10-29T13:42:34+01:00</news:publication_date>
       <news:title>Verboomen y Zonik Plus ganan en Lyon con un 79,065% y dejan a Werth segunda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261028-steve-guerdat-llega-a-lyon-con-el-oro-mundial-y-una-espina-clavada-desde-2008</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:33:54+01:00</news:publication_date>
-      <news:title>Steve Guerdat llega a Lyon con el oro mundial y una espina clavada desde 2008</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261028-vogel-deusser-y-guerdat-encabezan-el-csi5-w-de-lyon-con-sesenta-jinetes-de-19</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:05:18+01:00</news:publication_date>
-      <news:title>Vogel, Deusser y Guerdat encabezan el CSI5*-W de Lyon con sesenta jinetes de 19 países</news:title>
     </news:news>
   </url>
 </urlset>

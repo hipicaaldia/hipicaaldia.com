@@ -49,6 +49,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/andalucia-october-tour-week-2-vejer-de-la-frontera-2026</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/brussels-stephex-masters-2026</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,6 +110,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/concursos/longines-global-champions-tour-of-monaco-2026</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/concursos/longines-global-champions-tour-of-rabat-2026</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -199,6 +211,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261030-simon-delestre-y-golden-boy-dk-ganan-la-gcl-first-competition-de-160-m-en-rabat</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261030-ocho-puntos-separan-a-madrid-in-motion-de-la-quinta-plaza-antes-de-rabat</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261030-tres-britanicos-se-reparten-las-pruebas-grandes-en-el-arranque-del-csi3-de</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,7 +230,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261029-abdel-said-campeon-del-lgct-2026-encabeza-el-cartel-de-la-etapa-final-en-rabat</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -332,7 +356,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-la-semana-del-salto-equita-lyon-arranca-el-csi5-w-y-rabat-cierra-el-morocco</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -530,7 +554,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261023-tom-n-schewe-apunta-a-la-final-de-la-copa-del-mundo-de-2027-tras-el-morocco</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -560,7 +584,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-el-longines-global-champions-tour-llega-a-las-piramides-de-giza-con-abdel-said</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
