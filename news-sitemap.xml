@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-seis-binomios-primeros-en-el-grand-prix-155-m-del-csio3-de-vejer-de-la-frontera</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:38:20+01:00</news:publication_date>
+      <news:title>Seis binomios, primeros en el Grand Prix 1,55 m del CSIO3* de Vejer de la Frontera</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-augustsson-zanotelli-e-iron-dames-calvino-ii-de-nyze-z-ganan-el-gp-de-160-m-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:38:20+01:00</news:publication_date>
+      <news:title>Augustsson Zanotelli e Iron Dames Calvino II de Nyze Z ganan el GP de 1,60 m de Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-catorce-binomios-sin-faltas-en-la-copa-del-mundo-de-160-m-del-csi5-de-lyon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:38:19+01:00</news:publication_date>
+      <news:title>Catorce binomios sin faltas en la Copa del Mundo de 1,60 m del CSI5* de Lyon</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261101-riesenbeck-international-se-queda-la-global-champions-league-2026-con-322-puntos</loc>
     <news:news>
       <news:publication>
@@ -87,17 +120,6 @@
       </news:publication>
       <news:publication_date>2026-10-30T20:19:16+01:00</news:publication_date>
       <news:title>Ocho puntos separan a Madrid in Motion de la quinta plaza antes de Rabat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261030-tres-britanicos-se-reparten-las-pruebas-grandes-en-el-arranque-del-csi3-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T09:03:14+01:00</news:publication_date>
-      <news:title>Tres británicos se reparten las pruebas grandes en el arranque del CSI3* de Valencia</news:title>
     </news:news>
   </url>
 </urlset>

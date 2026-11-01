@@ -103,6 +103,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/longines-fei-jumping-world-cup-china-league-hangzhou-2026</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/longines-global-champions-tour-of-cairo-2026</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,6 +218,24 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/concursos/washington-int-horse-show-upper-marlboro-md-2026</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-seis-binomios-primeros-en-el-grand-prix-155-m-del-csio3-de-vejer-de-la-frontera</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-augustsson-zanotelli-e-iron-dames-calvino-ii-de-nyze-z-ganan-el-gp-de-160-m-de</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-catorce-binomios-sin-faltas-en-la-copa-del-mundo-de-160-m-del-csi5-de-lyon</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -391,14 +415,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261026-montenmedio-abre-tres-semanas-de-competicion-internacional-con-702-caballos</loc>
-    <lastmod>2026-10-28</lastmod>
+    <loc>https://www.hipicaaldia.com/noticias/20261026-la-semana-del-salto-equita-lyon-arranca-el-csi5-w-y-rabat-cierra-el-morocco</loc>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261026-la-semana-del-salto-equita-lyon-arranca-el-csi5-w-y-rabat-cierra-el-morocco</loc>
-    <lastmod>2026-10-30</lastmod>
+    <loc>https://www.hipicaaldia.com/noticias/20261026-montenmedio-abre-tres-semanas-de-competicion-internacional-con-702-caballos</loc>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -614,7 +638,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261022-abierta-la-votacion-de-los-fei-awards-2026-17-nominados-en-cuatro-categorias</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
