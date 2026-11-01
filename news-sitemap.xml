@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-riesenbeck-international-se-queda-la-global-champions-league-2026-con-322-puntos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T08:40:21+01:00</news:publication_date>
+      <news:title>Riesenbeck International se queda la Global Champions League 2026 con 322 puntos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261101-ciaran-nallon-abre-el-desempate-de-rabat-con-3965-s-y-nadie-le-alcanza</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T08:40:20+01:00</news:publication_date>
+      <news:title>Ciaran Nallon abre el desempate de Rabat con 39,65 s y nadie le alcanza</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261031-majid-djaidi-gana-con-ideale-l-herminiere-la-prueba-de-145-m-del-lgct-de-rabat</loc>
     <news:news>
       <news:publication>
