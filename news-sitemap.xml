@@ -100,26 +100,4 @@
       <news:title>Isabell Werth gana en Lyon el Freestyle de la Copa del Mundo con un 87,890%</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261030-simon-delestre-y-golden-boy-dk-ganan-la-gcl-first-competition-de-160-m-en-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:19:17+01:00</news:publication_date>
-      <news:title>Simon Delestre y Golden Boy DK ganan la GCL - First Competition de 1,60 m en Rabat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261030-ocho-puntos-separan-a-madrid-in-motion-de-la-quinta-plaza-antes-de-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:19:16+01:00</news:publication_date>
-      <news:title>Ocho puntos separan a Madrid in Motion de la quinta plaza antes de Rabat</news:title>
-    </news:news>
-  </url>
 </urlset>
