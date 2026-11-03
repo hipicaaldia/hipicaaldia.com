@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261103-robbie-williams-paraliza-flemington-en-la-previa-de-la-melbourne-cup</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T11:46:23+01:00</news:publication_date>
-      <news:title>Robbie Williams paraliza Flemington en la previa de la Melbourne Cup</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261101-augustsson-zanotelli-e-iron-dames-calvino-ii-de-nyze-z-ganan-el-gp-de-160-m-de</loc>
     <news:news>
       <news:publication>
