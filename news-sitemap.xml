@@ -12,26 +12,4 @@
       <news:title>Augustsson Zanotelli e Iron Dames Calvino II de Nyze Z ganan el GP de 1,60 m de Rabat</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261101-seis-binomios-primeros-en-el-grand-prix-155-m-del-csio3-de-vejer-de-la-frontera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T17:38:20+01:00</news:publication_date>
-      <news:title>Seis binomios, primeros en el Grand Prix 1,55 m del CSIO3* de Vejer de la Frontera</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261101-catorce-binomios-sin-faltas-en-la-copa-del-mundo-de-160-m-del-csi5-de-lyon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T17:38:19+01:00</news:publication_date>
-      <news:title>Catorce binomios sin faltas en la Copa del Mundo de 1,60 m del CSI5* de Lyon</news:title>
-    </news:news>
-  </url>
 </urlset>
