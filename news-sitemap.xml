@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261106-thibeau-spits-e-impress-k-van-t-kattenheye-repiten-como-la-mejor-combinacion-fei</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:39:46+01:00</news:publication_date>
+      <news:title>Thibeau Spits e Impress-K van &amp;#39;t Kattenheye repiten como la mejor combinación FEI de salto</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261105-quince-jinetes-a-por-el-super-gran-premio-de-los-playoffs-del-gct-en-verona</loc>
     <news:news>
       <news:publication>
