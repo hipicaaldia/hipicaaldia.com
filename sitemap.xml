@@ -85,6 +85,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/jumping-verona-2026</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/longines-eef-nations-cup-bratislava-semi-final-samorin-2026</loc>
     <lastmod>2026-11-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,6 +235,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261106-julien-epaillard-y-donatello-d-auge-ganan-la-prueba-de-155-m-del-csi5-de-verona</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261106-brecht-goossens-vende-a-alaska-z-y-maserati-yuri-mansur-y-millie-allen-toman-las</loc>
     <lastmod>2026-11-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,7 +254,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261105-quince-jinetes-a-por-el-super-gran-premio-de-los-playoffs-del-gct-en-verona</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261026-tim-price-repite-en-pau-con-jarillo-y-ya-nadie-habia-ganado-dos-anos-seguidos</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-alrashidi-y-opio-da-oliveirinha-ganan-el-cei-100-km-del-raid-ciudad-del-sol</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -470,6 +476,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-dakar-abre-esta-semana-los-primeros-juegos-olimpicos-de-la-juventud-en-africa</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261026-tim-price-repite-en-pau-con-jarillo-y-ya-nadie-habia-ganado-dos-anos-seguidos</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
