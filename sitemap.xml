@@ -235,6 +235,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261107-bucci-quiere-ser-el-primer-italiano-que-gane-la-copa-del-mundo-de-verona</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261107-borja-carrascosa-mejora-su-marca-personal-con-frizzantino-frh-en-verona</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261106-julien-epaillard-y-donatello-d-auge-ganan-la-prueba-de-155-m-del-csi5-de-verona</loc>
     <lastmod>2026-11-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -427,12 +439,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261026-larrazabal-y-camp-s-ganan-el-desempate-del-perfect-products-grand-prix-en</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-el-mexico-fall-tour-reabre-el-miercoles-en-otomi-con-la-segunda-semana-del-csi5</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -453,6 +459,12 @@
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-la-semana-del-salto-equita-lyon-arranca-el-csi5-w-y-rabat-cierra-el-morocco</loc>
     <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261026-larrazabal-y-camp-s-ganan-el-desempate-del-perfect-products-grand-prix-en</loc>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
