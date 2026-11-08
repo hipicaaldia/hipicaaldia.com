@@ -41,7 +41,7 @@
         <news:name>Hípica al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T23:21:25+01:00</news:publication_date>
+      <news:publication_date>2026-11-08T19:06:48+01:00</news:publication_date>
       <news:title>Julien Epaillard y Donatello d&amp;#39;Auge ganan la prueba de 1,55 m del CSI5* de Verona</news:title>
     </news:news>
   </url>
@@ -54,17 +54,6 @@
       </news:publication>
       <news:publication_date>2026-11-06T22:50:36+01:00</news:publication_date>
       <news:title>Brecht Goossens vende a Alaska Z y Maserati: Yuri Mansur y Millie Allen toman las riendas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261106-thibeau-spits-e-impress-k-van-t-kattenheye-repiten-como-la-mejor-combinacion-fei</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T13:39:46+01:00</news:publication_date>
-      <news:title>Thibeau Spits e Impress-K van &amp;#39;t Kattenheye repiten como la mejor combinación FEI de salto</news:title>
     </news:news>
   </url>
 </urlset>
