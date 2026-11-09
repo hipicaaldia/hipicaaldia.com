@@ -235,6 +235,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261109-richard-vogel-manda-en-verona-gangster-montdesir-gana-el-gp-de-la-copa-del-mundo</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261108-muere-vdl-bubalu-el-caballo-de-jur-vrieling-en-la-plata-de-londres-2012</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -433,12 +439,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261026-programa-de-cinco-anos-para-mejorar-el-bienestar-de-los-caballos-de-trabajo-en</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-barcelona-lyon-y-andalucia-reunen-el-salto-de-la-semana-del-26-de-octubre</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,6 +477,12 @@
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-montenmedio-abre-tres-semanas-de-competicion-internacional-con-702-caballos</loc>
     <lastmod>2026-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261026-programa-de-cinco-anos-para-mejorar-el-bienestar-de-los-caballos-de-trabajo-en</loc>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

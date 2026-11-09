@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261109-richard-vogel-manda-en-verona-gangster-montdesir-gana-el-gp-de-la-copa-del-mundo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:52:37+01:00</news:publication_date>
+      <news:title>Richard Vogel manda en Verona: «Gangster Montdesir» gana el GP de la Copa del Mundo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261108-muere-vdl-bubalu-el-caballo-de-jur-vrieling-en-la-plata-de-londres-2012</loc>
     <news:news>
       <news:publication>
@@ -10,28 +21,6 @@
       </news:publication>
       <news:publication_date>2026-11-08T10:01:58+01:00</news:publication_date>
       <news:title>Muere VDL Bubalu, el caballo de Jur Vrieling en la plata de Londres 2012</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261107-bucci-quiere-ser-el-primer-italiano-que-gane-la-copa-del-mundo-de-verona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T14:04:42+01:00</news:publication_date>
-      <news:title>Bucci quiere ser el primer italiano que gane la Copa del Mundo de Verona</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261107-borja-carrascosa-mejora-su-marca-personal-con-frizzantino-frh-en-verona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T14:04:42+01:00</news:publication_date>
-      <news:title>Borja Carrascosa mejora su marca personal con «Frizzantino FRH» en Verona</news:title>
     </news:news>
   </url>
   <url>
