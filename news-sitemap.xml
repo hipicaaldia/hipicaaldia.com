@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261111-jimenez-cobo-y-trapote-llevan-a-espana-a-la-copa-del-mundo-de-stuttgart</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:41:11+01:00</news:publication_date>
+      <news:title>Jiménez Cobo y Trapote llevan a España a la Copa del Mundo de Stuttgart</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261110-vogel-pulveriza-el-desempate-de-verona-3302-segundos-y-diez-de-ventaja-sobre-el</loc>
     <news:news>
       <news:publication>

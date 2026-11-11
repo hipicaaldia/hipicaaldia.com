@@ -235,6 +235,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261111-jimenez-cobo-y-trapote-llevan-a-espana-a-la-copa-del-mundo-de-stuttgart</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261110-vogel-pulveriza-el-desempate-de-verona-3302-segundos-y-diez-de-ventaja-sobre-el</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -409,13 +415,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261027-jj-torano-gana-con-i-am-inge-el-gran-premio-csi2-de-washington-por-115-segundos</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20261027-emi-richard-gana-la-final-junior-medal-del-wihs-tras-el-cambio-de-caballos</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261027-emi-richard-gana-la-final-junior-medal-del-wihs-tras-el-cambio-de-caballos</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20261027-jj-torano-gana-con-i-am-inge-el-gran-premio-csi2-de-washington-por-115-segundos</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
