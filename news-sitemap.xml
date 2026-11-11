@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261111-michael-mronz-dejara-la-gerencia-del-chio-aachen-tras-30-anos-le-sucedera-philip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:55:32+01:00</news:publication_date>
+      <news:title>Michael Mronz dejará la gerencia del CHIO Aachen tras 30 años; le sucederá Philip Erbers</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261110-vogel-pulveriza-el-desempate-de-verona-3302-segundos-y-diez-de-ventaja-sobre-el</loc>
     <news:news>
       <news:publication>
@@ -21,17 +32,6 @@
       </news:publication>
       <news:publication_date>2026-11-10T22:23:11+01:00</news:publication_date>
       <news:title>Vogel pulveriza el desempate de Verona: 33,02 segundos y diez de ventaja sobre el crono</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261109-richard-vogel-manda-en-verona-gangster-montdesir-gana-el-gp-de-la-copa-del-mundo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T15:52:37+01:00</news:publication_date>
-      <news:title>Richard Vogel manda en Verona: «Gangster Montdesir» gana el GP de la Copa del Mundo</news:title>
     </news:news>
   </url>
 </urlset>
