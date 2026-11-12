@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261112-laura-collett-completa-la-coleccion-medallas-individuales-y-por-equipos-en-todas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:47:13+01:00</news:publication_date>
+      <news:title>Laura Collett completa la colección: medallas individuales y por equipos en todas las categorías</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261111-jimenez-cobo-y-trapote-llevan-a-espana-a-la-copa-del-mundo-de-stuttgart</loc>
     <news:news>
       <news:publication>

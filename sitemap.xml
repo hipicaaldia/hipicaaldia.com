@@ -235,6 +235,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261112-laura-collett-completa-la-coleccion-medallas-individuales-y-por-equipos-en-todas</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261111-jimenez-cobo-y-trapote-llevan-a-espana-a-la-copa-del-mundo-de-stuttgart</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -409,12 +415,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261027-josh-collins-y-cornel-ganan-la-clasificatoria-de-la-copa-del-mundo-en-el-sydney</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261027-emi-richard-gana-la-final-junior-medal-del-wihs-tras-el-cambio-de-caballos</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -422,6 +422,12 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261027-jj-torano-gana-con-i-am-inge-el-gran-premio-csi2-de-washington-por-115-segundos</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261027-josh-collins-y-cornel-ganan-la-clasificatoria-de-la-copa-del-mundo-en-el-sydney</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
