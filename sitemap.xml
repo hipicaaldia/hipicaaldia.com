@@ -205,6 +205,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/stuttgart-german-masters-2026</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/summer-classic-valkenswaard-2026</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,6 +241,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261112-rodrigo-giesteira-almeida-gana-con-karonia-l-la-prueba-de-150-m-del-csi5-de</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261112-laura-collett-completa-la-coleccion-medallas-individuales-y-por-equipos-en-todas</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,7 +254,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261111-jimenez-cobo-y-trapote-llevan-a-espana-a-la-copa-del-mundo-de-stuttgart</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -445,13 +457,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261027-la-fei-mete-un-circulo-de-estiramiento-en-el-grand-prix-de-doma-a-partir-de-2027</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20261027-gudrun-patteet-todo-lo-que-venga-ahora-sera-un-regalo</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261027-gudrun-patteet-todo-lo-que-venga-ahora-sera-un-regalo</loc>
+    <loc>https://www.hipicaaldia.com/noticias/20261027-la-fei-mete-un-circulo-de-estiramiento-en-el-grand-prix-de-doma-a-partir-de-2027</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
