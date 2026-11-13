@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261113-rodrigo-giesteira-almeida-repite-en-stuttgart-gana-la-prueba-de-145-m-con</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T20:48:58+01:00</news:publication_date>
+      <news:title>Rodrigo Giesteira Almeida repite en Stuttgart: gana la prueba de 1,45 m con «Solidat»</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261113-richard-vogel-y-gangster-montdesir-ganan-la-prueba-de-155-m-del-csi5-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T20:48:57+01:00</news:publication_date>
+      <news:title>Richard Vogel y Gangster Montdesir ganan la prueba de 1,55 m del CSI5* de Stuttgart</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261112-rodrigo-giesteira-almeida-gana-con-karonia-l-la-prueba-de-150-m-del-csi5-de</loc>
     <news:news>
       <news:publication>
@@ -21,17 +43,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T13:47:13+01:00</news:publication_date>
       <news:title>Laura Collett completa la colección: medallas individuales y por equipos en todas las categorías</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261111-jimenez-cobo-y-trapote-llevan-a-espana-a-la-copa-del-mundo-de-stuttgart</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:41:11+01:00</news:publication_date>
-      <news:title>Jiménez Cobo y Trapote llevan a España a la Copa del Mundo de Stuttgart</news:title>
     </news:news>
   </url>
   <url>
