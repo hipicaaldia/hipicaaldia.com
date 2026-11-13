@@ -45,15 +45,4 @@
       <news:title>Michael Mronz dejará la gerencia del CHIO Aachen tras 30 años; le sucederá Philip Erbers</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261110-vogel-pulveriza-el-desempate-de-verona-3302-segundos-y-diez-de-ventaja-sobre-el</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T22:23:11+01:00</news:publication_date>
-      <news:title>Vogel pulveriza el desempate de Verona: 33,02 segundos y diez de ventaja sobre el crono</news:title>
-    </news:news>
-  </url>
 </urlset>
