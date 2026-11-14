@@ -193,6 +193,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/concursos/royal-agricultural-winter-fair-toronto-2026</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/concursos/sentower-park-summer-edition-csi4-1-yh-5-9-august-2026</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,6 +247,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261114-peder-fredricson-llega-a-madrid-tras-ganar-el-master-en-stuttgart</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261114-aaron-vale-y-gray-s-inn-ganan-la-prueba-de-150-m-del-csi5-w-de-toronto</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261113-rodrigo-giesteira-almeida-repite-en-stuttgart-gana-la-prueba-de-145-m-con</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -249,6 +267,12 @@
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261113-richard-vogel-y-gangster-montdesir-ganan-la-prueba-de-155-m-del-csi5-de</loc>
     <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261112-mark-bluman-y-phelina-de-septon-ganan-la-prueba-de-145-m-del-csi5-de-toronto</loc>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -512,7 +536,7 @@
   </url>
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261026-la-semana-del-salto-equita-lyon-arranca-el-csi5-w-y-rabat-cierra-el-morocco</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

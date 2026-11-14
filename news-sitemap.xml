@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261114-peder-fredricson-llega-a-madrid-tras-ganar-el-master-en-stuttgart</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T08:49:52+01:00</news:publication_date>
+      <news:title>Peder Fredricson llega a Madrid tras ganar el Máster en Stuttgart</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261114-aaron-vale-y-gray-s-inn-ganan-la-prueba-de-150-m-del-csi5-w-de-toronto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T08:49:51+01:00</news:publication_date>
+      <news:title>Aaron Vale y Gray&amp;#39;s Inn ganan la prueba de 1,50 m del CSI5*-W de Toronto</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261113-rodrigo-giesteira-almeida-repite-en-stuttgart-gana-la-prueba-de-145-m-con</loc>
     <news:news>
       <news:publication>
@@ -21,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-11-13T20:48:57+01:00</news:publication_date>
       <news:title>Richard Vogel y Gangster Montdesir ganan la prueba de 1,55 m del CSI5* de Stuttgart</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261112-mark-bluman-y-phelina-de-septon-ganan-la-prueba-de-145-m-del-csi5-de-toronto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T08:49:52+01:00</news:publication_date>
+      <news:title>Mark Bluman y Phelina de Septon ganan la prueba de 1,45 m del CSI5* de Toronto</news:title>
     </news:news>
   </url>
   <url>
