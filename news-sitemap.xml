@@ -45,15 +45,4 @@
       <news:title>Laura Collett completa la colección: medallas individuales y por equipos en todas las categorías</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261111-michael-mronz-dejara-la-gerencia-del-chio-aachen-tras-30-anos-le-sucedera-philip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T21:55:32+01:00</news:publication_date>
-      <news:title>Michael Mronz dejará la gerencia del CHIO Aachen tras 30 años; le sucederá Philip Erbers</news:title>
-    </news:news>
-  </url>
 </urlset>
