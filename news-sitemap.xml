@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261115-mclain-ward-gana-con-jordan-molga-m-su-quinta-copa-del-mundo-en-toronto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T13:30:10+01:00</news:publication_date>
+      <news:title>McLain Ward gana con Jordan Molga M su quinta Copa del Mundo en Toronto</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261115-werth-y-viva-gold-se-llevan-la-kur-de-stuttgart-con-un-8856-de-record</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T13:30:09+01:00</news:publication_date>
+      <news:title>Werth y Viva Gold se llevan la Kür de Stuttgart con un 88,56 % de récord</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261114-tom-schewe-gana-con-katrien-la-prueba-de-155-m-del-csi5-de-stuttgart</loc>
     <news:news>
       <news:publication>
