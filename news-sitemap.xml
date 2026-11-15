@@ -56,26 +56,4 @@
       <news:title>Mark Bluman y Phelina de Septon ganan la prueba de 1,45 m del CSI5* de Toronto</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261112-rodrigo-giesteira-almeida-gana-con-karonia-l-la-prueba-de-150-m-del-csi5-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T20:48:25+01:00</news:publication_date>
-      <news:title>Rodrigo Giesteira Almeida gana con Karonia.L la prueba de 1,50 m del CSI5* de Stuttgart</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261112-laura-collett-completa-la-coleccion-medallas-individuales-y-por-equipos-en-todas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:47:13+01:00</news:publication_date>
-      <news:title>Laura Collett completa la colección: medallas individuales y por equipos en todas las categorías</news:title>
-    </news:news>
-  </url>
 </urlset>
