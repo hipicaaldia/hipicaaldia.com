@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261114-tom-schewe-gana-con-katrien-la-prueba-de-155-m-del-csi5-de-stuttgart</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T09:48:01+01:00</news:publication_date>
+      <news:title>Tom Schewe gana con Katrien la prueba de 1,55 m del CSI5* de Stuttgart</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261114-peder-fredricson-llega-a-madrid-tras-ganar-el-master-en-stuttgart</loc>
     <news:news>
       <news:publication>
