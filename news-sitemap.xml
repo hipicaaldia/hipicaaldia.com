@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261118-quince-jinetes-un-debutante-y-una-victoria-el-balance-de-espana-en-las-copa-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T13:37:06+01:00</news:publication_date>
+      <news:title>Quince jinetes, un debutante y una victoria: el balance de España en las Copa de Naciones 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261118-los-jueces-de-doma-debaten-en-thermal-el-circulo-de-estiramiento-y-la-cojera-en</loc>
     <news:news>
       <news:publication>
