@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261118-la-fei-sometera-a-votacion-el-5-de-diciembre-el-fin-de-las-notas-de-conjunto-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:32:28+01:00</news:publication_date>
+      <news:title>La FEI someterá a votación el 5 de diciembre el fin de las notas de conjunto en doma</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261118-los-jueces-de-doma-debaten-en-thermal-el-circulo-de-estiramiento-y-la-cojera-en</loc>
     <news:news>
       <news:publication>
