@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261119-alexander-mclean-gana-con-gino-f-la-prueba-de-145-m-del-csi4-de-valencia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:19:59+01:00</news:publication_date>
+      <news:title>Alexander Mclean gana con Gino F la prueba de 1,45 m del CSI4* de Valencia</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261119-verona-reparte-925-millones-en-tres-dias-con-los-global-champions-playoffs</loc>
     <news:news>
       <news:publication>
