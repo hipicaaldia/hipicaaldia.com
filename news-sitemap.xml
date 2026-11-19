@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261119-mutua-madrid-horse-week-reune-tres-copas-del-mundo-y-entradas-desde-15-euros</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T19:33:37+01:00</news:publication_date>
+      <news:title>Mutua Madrid Horse Week reúne tres Copas del Mundo y entradas desde 15 euros</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261119-alexander-mclean-gana-con-gino-f-la-prueba-de-145-m-del-csi4-de-valencia</loc>
     <news:news>
       <news:publication>
@@ -65,17 +76,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T08:36:07+01:00</news:publication_date>
       <news:title>Los jueces de doma debaten en Thermal el círculo de estiramiento y la cojera en competición</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261117-double-rose-mejor-registro-en-los-7-y-8-anos-que-abrio-la-ultima-semana-del</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:33:39+01:00</news:publication_date>
-      <news:title>Double Rose, mejor registro en los 7 y 8 años que abrió la última semana del Autumn Moura Tours</news:title>
     </news:news>
   </url>
 </urlset>
