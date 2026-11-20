@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-riyadh-knights-unico-equipo-sin-faltas-en-los-cuartos-de-la-super-copa-madrid-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T08:41:35+01:00</news:publication_date>
+      <news:title>Riyadh Knights, único equipo sin faltas en los cuartos de la Súper Copa; Madrid in Motion se queda fuera</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261120-la-fei-sopesa-una-serie-cci5-para-frenar-la-sangria-de-participantes</loc>
     <news:news>
       <news:publication>
