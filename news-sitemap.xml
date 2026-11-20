@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-diez-jinetes-espanoles-en-el-csi5-w-mutua-madrid-horses-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T19:32:59+01:00</news:publication_date>
+      <news:title>Diez jinetes españoles, en el CSI5*-W Mutua Madrid Horses Week</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261120-nueve-binomios-espanoles-saltan-este-fin-de-semana-en-verona-rouen-y-opglabbeek</loc>
     <news:news>
       <news:publication>
@@ -131,17 +142,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T12:49:23+01:00</news:publication_date>
       <news:title>Richard Vogel abre como número uno mundial el CSI5*-W de Santa Anita</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261118-la-fei-sometera-a-votacion-el-5-de-diciembre-el-fin-de-las-notas-de-conjunto-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T19:32:28+01:00</news:publication_date>
-      <news:title>La FEI someterá a votación el 5 de diciembre el fin de las notas de conjunto en doma</news:title>
     </news:news>
   </url>
 </urlset>
