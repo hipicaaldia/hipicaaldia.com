@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-peter-van-der-waaij-deja-el-cargo-de-chef-d-equipe-de-salto-en-swiss-equestrian</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T19:33:15+01:00</news:publication_date>
+      <news:title>Peter van der Waaij deja el cargo de Chef d&amp;#39;Equipe de salto en Swiss Equestrian</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261120-diez-jinetes-espanoles-en-el-csi5-w-mutua-madrid-horses-week</loc>
     <news:news>
       <news:publication>
