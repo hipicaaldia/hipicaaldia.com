@@ -46,6 +46,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-mclain-ward-defiende-titulo-este-sabado-en-la-copa-del-mundo-de-los-angeles-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:33:42+01:00</news:publication_date>
+      <news:title>McLain Ward defiende título este sábado en la Copa del Mundo de Los Ángeles de 400.000 dólares</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-camilli-lleva-a-basel-cosmopolitans-al-segundo-puesto-en-los-cuartos-de-la-gcl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:33:42+01:00</news:publication_date>
+      <news:title>Camilli lleva a Basel Cosmopolitans al segundo puesto en los cuartos de la GCL Super Cup de Verona</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261119-mutua-madrid-horse-week-reune-tres-copas-del-mundo-y-entradas-desde-15-euros</loc>
     <news:news>
       <news:publication>
