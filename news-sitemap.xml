@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-casas-novas-abre-la-descarga-de-invitaciones-para-su-csi5-w-de-diciembre</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:34:35+01:00</news:publication_date>
+      <news:title>Casas Novas abre la descarga de invitaciones para su CSI5*-W de diciembre</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261120-riyadh-knights-unico-triple-cero-en-los-cuartos-de-la-gcl-super-cup-en-verona</loc>
     <news:news>
       <news:publication>
