@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-la-fei-sopesa-una-serie-cci5-para-frenar-la-sangria-de-participantes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T08:41:19+01:00</news:publication_date>
+      <news:title>La FEI sopesa una serie CCI5* para frenar la sangría de participantes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261119-mutua-madrid-horse-week-reune-tres-copas-del-mundo-y-entradas-desde-15-euros</loc>
     <news:news>
       <news:publication>
@@ -65,17 +76,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T19:32:28+01:00</news:publication_date>
       <news:title>La FEI someterá a votación el 5 de diciembre el fin de las notas de conjunto en doma</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261118-los-jueces-de-doma-debaten-en-thermal-el-circulo-de-estiramiento-y-la-cojera-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T08:36:07+01:00</news:publication_date>
-      <news:title>Los jueces de doma debaten en Thermal el círculo de estiramiento y la cojera en competición</news:title>
     </news:news>
   </url>
 </urlset>
