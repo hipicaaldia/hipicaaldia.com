@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-de-freitas-barcha-gana-con-imperio-egipcio-el-super-grand-prix-de-165-m-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:02:16+01:00</news:publication_date>
+      <news:title>De Freitas Barcha gana con Imperio Egipcio el Super Grand Prix de 1,65 m de Verona</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-francois-xavier-boudant-gana-con-fee-de-riverland-la-145-m-del-csi4-de-rouen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:02:16+01:00</news:publication_date>
+      <news:title>Francois Xavier Boudant gana con Fee de Riverland la 1,45 m del CSI4* de Rouen</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261121-eduardo-alvarez-aznar-hace-doble-cero-con-sus-dos-caballos-y-gana-el-gran-premio</loc>
     <news:news>
       <news:publication>
