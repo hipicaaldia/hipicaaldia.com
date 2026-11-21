@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-eduardo-alvarez-aznar-hace-doble-cero-con-sus-dos-caballos-y-gana-el-gran-premio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T19:36:51+01:00</news:publication_date>
+      <news:title>Eduardo Álvarez Aznar hace doble cero con sus dos caballos y gana el Gran Premio del CSI4* de Valencia</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-shane-breen-para-el-crono-en-6382-s-y-gana-la-velocidad-de-150-m-del-csi-4-rouen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T19:36:51+01:00</news:publication_date>
+      <news:title>Shane Breen para el crono en 63,82 s y gana la velocidad de 1,50 m del CSI 4* Rouen</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261121-leopold-van-asten-y-vdl-groep-niagara-ganan-la-145-m-del-csi2-de-sentower-park</loc>
     <news:news>
       <news:publication>
@@ -186,17 +208,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T12:33:42+01:00</news:publication_date>
       <news:title>Camilli lleva a Basel Cosmopolitans al segundo puesto en los cuartos de la GCL Super Cup de Verona</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261119-mutua-madrid-horse-week-reune-tres-copas-del-mundo-y-entradas-desde-15-euros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:33:37+01:00</news:publication_date>
-      <news:title>Mutua Madrid Horse Week reúne tres Copas del Mundo y entradas desde 15 euros</news:title>
     </news:news>
   </url>
 </urlset>
