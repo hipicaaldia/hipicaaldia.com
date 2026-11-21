@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-los-shanghai-swans-ganan-la-semifinal-de-la-gcl-super-cup-en-verona</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
+      <news:title>Los Shanghai Swans ganan la semifinal de la GCL Super Cup en Verona</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-richard-vogel-vence-con-quizas-van-t-hulsbos-en-el-145-m-del-csi5-w-de-santa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
+      <news:title>Richard Vogel vence con Quizas van &amp;#39;t Hulsbos en el 1,45 m del CSI5*-W de Santa Anita</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-epaillard-para-el-crono-en-3579-s-y-gana-el-3-brasseurs-prize-de-equi-seine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
+      <news:title>Épaillard para el crono en 35,79 s y gana el 3 Brasseurs Prize de Equi Seine</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261121-bibici-cuelga-la-silla-gregory-cottard-retira-a-su-yegua-y-la-deja-en-casa-para</loc>
     <news:news>
       <news:publication>
@@ -153,28 +186,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T17:19:59+01:00</news:publication_date>
       <news:title>Alexander Mclean gana con Gino F la prueba de 1,45 m del CSI4* de Valencia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261119-verona-reparte-925-millones-en-tres-dias-con-los-global-champions-playoffs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T13:31:46+01:00</news:publication_date>
-      <news:title>Verona reparte 9,25 millones en tres días con los Global Champions Playoffs</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261119-richard-vogel-abre-como-numero-uno-mundial-el-csi5-w-de-santa-anita</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T12:49:23+01:00</news:publication_date>
-      <news:title>Richard Vogel abre como número uno mundial el CSI5*-W de Santa Anita</news:title>
     </news:news>
   </url>
 </urlset>
