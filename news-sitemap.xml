@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-leopold-van-asten-y-vdl-groep-niagara-ganan-la-145-m-del-csi2-de-sentower-park</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T18:40:39+01:00</news:publication_date>
+      <news:title>Leopold van Asten y VDL Groep Niagara ganan la 1,45 m del CSI2* de Sentower Park</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261121-gert-jan-bruggink-gana-con-fellow-de-will-la-prueba-de-145-m-del-csi4-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T18:40:39+01:00</news:publication_date>
+      <news:title>Gert Jan Bruggink gana con Fellow de Will la prueba de 1,45 m del CSI4* de Valencia</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261121-los-shanghai-swans-ganan-la-semifinal-de-la-gcl-super-cup-en-verona</loc>
     <news:news>
       <news:publication>
@@ -175,17 +197,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T19:33:37+01:00</news:publication_date>
       <news:title>Mutua Madrid Horse Week reúne tres Copas del Mundo y entradas desde 15 euros</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261119-alexander-mclean-gana-con-gino-f-la-prueba-de-145-m-del-csi4-de-valencia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:19:59+01:00</news:publication_date>
-      <news:title>Alexander Mclean gana con Gino F la prueba de 1,45 m del CSI4* de Valencia</news:title>
     </news:news>
   </url>
 </urlset>
