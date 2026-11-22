@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261122-laura-kraut-y-baloutinue-ganan-la-copa-del-mundo-de-los-angeles-con-el-triplete</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T12:35:38+01:00</news:publication_date>
+      <news:title>Laura Kraut y Baloutinue ganan la Copa del Mundo de Los Ángeles con el triplete de Estados Unidos en el podio</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261122-concurso-santa-anita-csi5-w-csi5-en-arcadia-ca-los-angeles-usa-del-2026-11-18</loc>
     <news:news>
       <news:publication>
@@ -175,72 +186,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T13:34:35+01:00</news:publication_date>
       <news:title>Casas Novas abre la descarga de invitaciones para su CSI5*-W de diciembre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-riyadh-knights-unico-triple-cero-en-los-cuartos-de-la-gcl-super-cup-en-verona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T09:12:37+01:00</news:publication_date>
-      <news:title>Riyadh Knights, único triple cero en los cuartos de la GCL Super Cup en Verona</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-daniel-coyle-y-calippo-57-ganan-la-prueba-de-150-m-del-csi5-w-de-santa-anita</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T09:12:36+01:00</news:publication_date>
-      <news:title>Daniel Coyle y Calippo 57 ganan la prueba de 1,50 m del CSI5*-W de Santa Anita</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-riyadh-knights-unico-equipo-sin-faltas-en-los-cuartos-de-la-super-copa-madrid-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T08:41:35+01:00</news:publication_date>
-      <news:title>Riyadh Knights, único equipo sin faltas en los cuartos de la Súper Copa; Madrid in Motion se queda fuera</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-la-fei-sopesa-una-serie-cci5-para-frenar-la-sangria-de-participantes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T08:41:19+01:00</news:publication_date>
-      <news:title>La FEI sopesa una serie CCI5* para frenar la sangría de participantes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-mclain-ward-defiende-titulo-este-sabado-en-la-copa-del-mundo-de-los-angeles-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:33:42+01:00</news:publication_date>
-      <news:title>McLain Ward defiende título este sábado en la Copa del Mundo de Los Ángeles de 400.000 dólares</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-camilli-lleva-a-basel-cosmopolitans-al-segundo-puesto-en-los-cuartos-de-la-gcl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:33:42+01:00</news:publication_date>
-      <news:title>Camilli lleva a Basel Cosmopolitans al segundo puesto en los cuartos de la GCL Super Cup de Verona</news:title>
     </news:news>
   </url>
 </urlset>
