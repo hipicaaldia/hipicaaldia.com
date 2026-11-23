@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261123-istanbul-warriors-gana-en-su-debut-en-la-super-copa-de-la-gcl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:48:21+01:00</news:publication_date>
+      <news:title>Istanbul Warriors gana en su debut en la Súper Copa de la GCL</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261123-erynn-ballard-se-impone-en-la-two-phase-de-35-000-dolares-de-santa-anita</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:48:21+01:00</news:publication_date>
+      <news:title>Erynn Ballard se impone en la Two-Phase de 35.000 dólares de Santa Anita</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261123-la-rolex-ijrc-top-10-final-cumple-25-ediciones-y-vuelve-a-reunir-en-ginebra-a-la</loc>
     <news:news>
       <news:publication>
@@ -76,105 +98,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T08:18:51+01:00</news:publication_date>
       <news:title>Concurso: Santa Anita CSI5*-W (CSI5*), en Arcadia, CA (Los Angeles), USA, del 2026-11-18</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-de-freitas-barcha-gana-con-imperio-egipcio-el-super-grand-prix-de-165-m-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:02:16+01:00</news:publication_date>
-      <news:title>De Freitas Barcha gana con Imperio Egipcio el Super Grand Prix de 1,65 m de Verona</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-francois-xavier-boudant-gana-con-fee-de-riverland-la-145-m-del-csi4-de-rouen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:02:16+01:00</news:publication_date>
-      <news:title>Francois Xavier Boudant gana con Fee de Riverland la 1,45 m del CSI4* de Rouen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-eduardo-alvarez-aznar-hace-doble-cero-con-sus-dos-caballos-y-gana-el-gran-premio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T19:36:51+01:00</news:publication_date>
-      <news:title>Eduardo Álvarez Aznar hace doble cero con sus dos caballos y gana el Gran Premio del CSI4* de Valencia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-shane-breen-para-el-crono-en-6382-s-y-gana-la-velocidad-de-150-m-del-csi-4-rouen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T19:36:51+01:00</news:publication_date>
-      <news:title>Shane Breen para el crono en 63,82 s y gana la velocidad de 1,50 m del CSI 4* Rouen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-leopold-van-asten-y-vdl-groep-niagara-ganan-la-145-m-del-csi2-de-sentower-park</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T18:40:39+01:00</news:publication_date>
-      <news:title>Leopold van Asten y VDL Groep Niagara ganan la 1,45 m del CSI2* de Sentower Park</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-gert-jan-bruggink-gana-con-fellow-de-will-la-prueba-de-145-m-del-csi4-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T18:40:39+01:00</news:publication_date>
-      <news:title>Gert Jan Bruggink gana con Fellow de Will la prueba de 1,45 m del CSI4* de Valencia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-los-shanghai-swans-ganan-la-semifinal-de-la-gcl-super-cup-en-verona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
-      <news:title>Los Shanghai Swans ganan la semifinal de la GCL Super Cup en Verona</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-richard-vogel-vence-con-quizas-van-t-hulsbos-en-el-145-m-del-csi5-w-de-santa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
-      <news:title>Richard Vogel vence con Quizas van &amp;#39;t Hulsbos en el 1,45 m del CSI5*-W de Santa Anita</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-epaillard-para-el-crono-en-3579-s-y-gana-el-3-brasseurs-prize-de-equi-seine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
-      <news:title>Épaillard para el crono en 35,79 s y gana el 3 Brasseurs Prize de Equi Seine</news:title>
     </news:news>
   </url>
 </urlset>
