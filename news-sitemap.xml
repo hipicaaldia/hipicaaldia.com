@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261123-la-rolex-ijrc-top-10-final-cumple-25-ediciones-y-vuelve-a-reunir-en-ginebra-a-la</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:39:54+01:00</news:publication_date>
+      <news:title>La Rolex IJRC Top 10 Final cumple 25 ediciones y vuelve a reunir en Ginebra a la élite del Ranking Longines</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261123-istanbul-warriors-conquistan-la-gcl-super-cup-final-de-verona-y-se-llevan-25</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:39:53+01:00</news:publication_date>
+      <news:title>Istanbul Warriors conquistan la GCL Super Cup Final de Verona y se llevan 2,5 millones</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261123-chi-geneva-cumple-100-anos-palexpo-recibe-el-9-de-diciembre-la-major-de-salto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:39:52+01:00</news:publication_date>
+      <news:title>CHI Geneva cumple 100 años: Palexpo recibe el 9 de diciembre la Major de salto que cierra el curso</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261123-sevilla-reune-a-40-jueces-en-dos-cursos-fei-de-salto-de-obstaculos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:37:31+01:00</news:publication_date>
+      <news:title>Sevilla reúne a 40 jueces en dos cursos FEI de salto de obstáculos</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261122-laura-kraut-y-baloutinue-ganan-la-copa-del-mundo-de-los-angeles-con-el-triplete</loc>
     <news:news>
       <news:publication>
@@ -131,28 +175,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
       <news:title>Épaillard para el crono en 35,79 s y gana el 3 Brasseurs Prize de Equi Seine</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261121-bibici-cuelga-la-silla-gregory-cottard-retira-a-su-yegua-y-la-deja-en-casa-para</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T08:34:58+01:00</news:publication_date>
-      <news:title>Bibici cuelga la silla: Grégory Cottard retira a su yegua y la deja en casa para criar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-guy-williams-y-kazandor-hero-z-ganan-la-prueba-de-145-m-del-csi4-de-valencia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T10:07:27+01:00</news:publication_date>
-      <news:title>Guy Williams y Kazandor Hero Z ganan la prueba de 1,45 m del CSI4* de Valencia</news:title>
     </news:news>
   </url>
 </urlset>
