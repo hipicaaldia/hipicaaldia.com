@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261124-muere-john-pearce-olimpico-canadiense-de-salto-en-sidney-2000-a-los-66-anos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T08:41:26+01:00</news:publication_date>
-      <news:title>Muere John Pearce, olímpico canadiense de salto en Sídney 2000, a los 66 años</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261123-istanbul-warriors-gana-en-su-debut-en-la-super-copa-de-la-gcl</loc>
     <news:news>
       <news:publication>
@@ -76,28 +65,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T13:37:31+01:00</news:publication_date>
       <news:title>Sevilla reúne a 40 jueces en dos cursos FEI de salto de obstáculos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261122-laura-kraut-y-baloutinue-ganan-la-copa-del-mundo-de-los-angeles-con-el-triplete</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T12:35:38+01:00</news:publication_date>
-      <news:title>Laura Kraut y Baloutinue ganan la Copa del Mundo de Los Ángeles con el triplete de Estados Unidos en el podio</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261122-concurso-2026-moura-tours-in-valencia-autumn-tour-csi4-en-2026-moura-tours-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Hípica al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:08:06+01:00</news:publication_date>
-      <news:title>Concurso: 2026 Moura Tours in Valencia - AUTUMN TOUR (CSI4*), en 2026 Moura Tours in</news:title>
     </news:news>
   </url>
 </urlset>
