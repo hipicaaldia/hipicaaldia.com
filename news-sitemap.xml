@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261126-duarte-seabra-y-fernhill-leonardo-ganan-la-prueba-de-145-m-que-abre-el-csi5-w-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T21:36:34+01:00</news:publication_date>
+      <news:title>Duarte Seabra y Fernhill Leonardo ganan la prueba de 1,45 m que abre el CSI5*-W de Madrid</news:title>
+    </news:news>
+  </url>
 </urlset>
