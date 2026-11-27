@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261127-daniel-deusser-y-navarro-van-het-eelshof-ganan-la-prueba-de-150-m-del-csi5-w-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T21:36:02+01:00</news:publication_date>
+      <news:title>Daniel Deusser y Navarro van het Eelshof ganan la prueba de 1,50 m del CSI5*-W de Madrid, clasificatoria para la Copa del Mundo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261127-maria-caetano-y-hit-plus-ganan-el-gran-premio-de-la-copa-del-mundo-de-doma-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Hípica al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T21:36:03+01:00</news:publication_date>
+      <news:title>Maria Caetano y Hit Plus ganan el Gran Premio de la Copa del Mundo de Doma en Madrid</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261127-boyd-exell-gana-la-prueba-de-apertura-de-la-copa-del-mundo-de-enganches-en</loc>
     <news:news>
       <news:publication>

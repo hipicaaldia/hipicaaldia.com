@@ -271,6 +271,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261127-daniel-deusser-y-navarro-van-het-eelshof-ganan-la-prueba-de-150-m-del-csi5-w-de</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261127-maria-caetano-y-hit-plus-ganan-el-gran-premio-de-la-copa-del-mundo-de-doma-en</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261127-boyd-exell-gana-la-prueba-de-apertura-de-la-copa-del-mundo-de-enganches-en</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -427,12 +439,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.hipicaaldia.com/noticias/20261120-riyadh-knights-unico-triple-cero-en-los-cuartos-de-la-gcl-super-cup-en-verona</loc>
-    <lastmod>2026-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.hipicaaldia.com/noticias/20261120-daniel-coyle-y-calippo-57-ganan-la-prueba-de-150-m-del-csi5-w-de-santa-anita</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -441,6 +447,12 @@
   <url>
     <loc>https://www.hipicaaldia.com/noticias/20261120-riyadh-knights-unico-equipo-sin-faltas-en-los-cuartos-de-la-super-copa-madrid-in</loc>
     <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hipicaaldia.com/noticias/20261120-riyadh-knights-unico-triple-cero-en-los-cuartos-de-la-gcl-super-cup-en-verona</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
